@@ -1,37 +1,11 @@
 ---
-title: 💜 Welcome to Amethyst!
-enableToc: false
+title: Bem-vindo à minha mente
 ---
 
-## Testing
+Este [[jardim digital]] é uma coleção dos meus **pensamentos**, representados em **notas**. Ele é diferente de um blog (veja a [[diferença entre blog e jardim digital]]). Estas páginas estão aqui como uma coleção aberta das notas, recursos, esboços e explorações que eu faço ao longo da minha vida, enquanto aprendo, sendo também uma espécie de **aprendizado em público**.
 
-So, this (at least now) is supposed to be only a test.
+Este **jardim digital** começou a nascer, ainda somente dentro da minha mente, a partir do momento em que eu comecei a me interessar por [[lifelong learning]] e por [[PKM|personal knowledge management]], sendo que, depois de muita tentativa e erro, começou a ganhar forma física (quer dizer, **_digital_**), graças ao [[Wikilogging]], sistema criado pelo [[Taylor Hadden]].
 
-## What is Amethyst?
-Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
+À medida que eu escrevo, as anotações começam a se interconectar cada vez mais, pois os conceitos que vão aparecendo começam a se relacionar. Independente disso, quer  seja uma nota, recurso, esboço ou exploração, se você encontrar neste jardim, foi porque me senti compelido a compartilhar.
 
-The purpose of Amethyst is to provide a space to publish more structured notes created in Obsidian that may not fit in the [digital garden](https://joelhooks.com/digital-garden/) archetype that is well-supported by existing projects.
-
-Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
-
-## Get Started
-> 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
-
-> ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
-
-> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](setup/obsidian.md)
-
-> 👀 Step 4: [Preview Changes](setup/preview%20changes.md)
-
-> 🌍 Step 5: [Hosting Amethyst online!](setup/hosting.md)
-
-> 🎨 Step 6:  [Customizing Amethyst](setup/config.md)
-
-Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
-
-Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](setup/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/64bitpandas/amethyst/issues)
-- 👀 [Contact me](https://bencuan.me/contact)
+Ao navegar nesta parte do meu site, você vai reparar que as informações compartilhadas estão em diversos graus: algumas coisas estão mais completas, algumas coisas menos completas — e tudo bem ser assim. Pois é assim que nossa mente funciona: quanto mais conhecimento adquirimos, mais eles crescem, mais o jardim evolui e contribui para a formação de um [[wikiblog]].

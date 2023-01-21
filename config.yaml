@@ -1,5 +1,5 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
-baseURL: https://amethyst.bencuan.me
+baseURL: https://notes.danielsantos.in
 
 # Book configuration
 disablePathToLower: true
@@ -26,13 +26,13 @@ menu:
   #     weight: 10
   after:
     - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
+      url: "https://github.com/64bitpandas/dldsantos"
       weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Daniel Santos
+  title: 📓 Daniel's Notes
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -71,11 +71,11 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/dldsantos/amethyst
 
   # Search (WIP)
   search:
-    enableSemanticSearch: false
+    enableSemanticSearch: true
     operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
     operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 
@@ -87,9 +87,9 @@ params:
   # Footer links
   links:
     - link_name: Website
-      link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+      link: https://danielsantos.in
+    - link_name: Mastodon
+      link: https://social.lol/@daniel
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -128,7 +128,7 @@ params:
   # Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat: "January 2, 2006"
+  BookDateFormat: "2006-01-02"
 
 
   # (Optional, default true) Enables comments template on pages
