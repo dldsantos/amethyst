@@ -75,7 +75,7 @@ params:
 
   # Search (WIP)
   search:
-    enableSemanticSearch: true
+    enableSemanticSearch: false
     operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
     operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 
