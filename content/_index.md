@@ -3,6 +3,10 @@ title: 💜 Welcome to Amethyst!
 enableToc: false
 ---
 
+## Testing
+
+So, this (at least now) is supposed to be only a test.
+
 ## What is Amethyst?
 Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
 
