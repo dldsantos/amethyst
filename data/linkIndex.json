@@ -1,0 +1,2999 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/jardim-digital",
+          "text": "jardim digital"
+        },
+        {
+          "source": "/",
+          "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "text": "diferença entre blog e jardim digital"
+        },
+        {
+          "source": "/",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/",
+          "target": "/PKM",
+          "text": "personal knowledge management"
+        },
+        {
+          "source": "/",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ],
+      "/Anchoring-bias": [
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/Daniel-Kahneman": [
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/Dont-make-me-think": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        },
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        }
+      ],
+      "/Nick-Milo": [
+        {
+          "source": "/Nick-Milo",
+          "target": "/PKM",
+          "text": "PKM"
+        }
+      ],
+      "/Pensamento-Autom%C3%A1tico": [
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        }
+      ],
+      "/Porque-quero-tomar-notas": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        }
+      ],
+      "/Quando-n%C3%A3o-usar-atomic-notes": [
+        {
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
+        },
+        {
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Quando-usar-atomic-notes",
+          "text": "Quando usar atomic notes"
+        }
+      ],
+      "/Quando-usar-atomic-notes": [
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
+        },
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "text": "Quando não usar atomic notes"
+        }
+      ],
+      "/Sistema-1": [
+        {
+          "source": "/Sistema-1",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-1",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        }
+      ],
+      "/Sistema-2": [
+        {
+          "source": "/Sistema-2",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        }
+      ],
+      "/T%C3%A9cnica-HQA": [
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        }
+      ],
+      "/T%C3%A9cnica-Jump-Notes": [
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/complicador-profissional",
+          "text": "complicador profissional"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        }
+      ],
+      "/Taylor-Hadden": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        },
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Tangent",
+          "text": "Tangent"
+        },
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ],
+      "/The-Honest-Notes-Method": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-HQA",
+          "text": "Técnica HQ\u0026A"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-Jump-Notes",
+          "text": "Técnica Jump Notes"
+        }
+      ],
+      "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade": [
+        {
+          "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/Wikilogging": [
+        {
+          "source": "/Wikilogging",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/daily-log",
+          "text": "daily log"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/journaling",
+          "text": "journaling"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ],
+      "/Zettelkasten": [
+        {
+          "source": "/Zettelkasten",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/Zettelkasten-n%C3%A3o-%C3%A9-complicado": [
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/tomar-notas-deve-ser-simples",
+          "text": "tomar notas deve ser simples"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-assassina-ideias": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "text": "a fricção quase matou meu processo de notetaking"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/PKM",
+          "text": "PKM"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ],
+      "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim": [
+        {
+          "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+          "target": "/a-vida-%C3%A9-como-um-jardim",
+          "text": "a vida é como um jardim"
+        }
+      ],
+      "/alimento-para-a-mente-macaco": [
+        {
+          "source": "/alimento-para-a-mente-macaco",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/commonplace-book": [
+        {
+          "source": "/commonplace-book",
+          "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "text": "Um commonplace book é um excelente combustível para a criatividade"
+        }
+      ],
+      "/complicador-profissional": [
+        {
+          "source": "/complicador-profissional",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        }
+      ],
+      "/curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/usos-da-curiosidade",
+          "text": "usar a curiosidade"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/tipos-de-curiosidade",
+          "text": "tipos de curiosidade"
+        }
+      ],
+      "/daily-log": [
+        {
+          "source": "/daily-log",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/journaling",
+          "text": "journal"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        }
+      ],
+      "/diferen%C3%A7a-entre-blog-e-jardim-digital": [
+        {
+          "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "target": "/jardim-digital",
+          "text": "jardins digitais"
+        }
+      ],
+      "/dont-make-me-decide": [
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+          "text": "Decisões demais confundem nossa mente"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias": [
+        {
+          "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/fric%C3%A7%C3%A3o": [
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        }
+      ],
+      "/jardim-digital": [
+        {
+          "source": "/jardim-digital",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/journaling": [
+        {
+          "source": "/journaling",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        }
+      ],
+      "/lifelong-learning": [
+        {
+          "source": "/lifelong-learning",
+          "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "text": "somos todos aprendizes ao longo de toda a vida"
+        },
+        {
+          "source": "/lifelong-learning",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/mente-macaco": [
+        {
+          "source": "/mente-macaco",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/journaling",
+          "text": "journaling"
+        }
+      ],
+      "/n%C3%A3o-fofoque-sobre-as-pessoas": [
+        {
+          "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        }
+      ],
+      "/notetaking": [
+        {
+          "source": "/notetaking",
+          "target": "/outlines",
+          "text": "outlines"
+        }
+      ],
+      "/nunca-acredite-somente-nas-not%C3%ADcias": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "text": "expandir a mente e não acompanhar somente as notícias"
+        },
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "text": "procure por aqueles com opiniões bem informadas"
+        }
+      ],
+      "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam": [
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca devemos acreditar somente nas notícias"
+        },
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        }
+      ],
+      "/outlines": [
+        {
+          "source": "/outlines",
+          "target": "/notetaking",
+          "text": "notetaking"
+        }
+      ],
+      "/pessoas-curiosas": [
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        }
+      ],
+      "/processos-de-pensamento": [
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas": [
+        {
+          "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/racioc%C3%ADnio": [
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        }
+      ],
+      "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado": [
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        }
+      ],
+      "/somos-todos-aprendizes-ao-longo-de-toda-a-vida": [
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        }
+      ],
+      "/tipos-de-curiosidade": [
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/tomar-notas-deve-ser-simples": [
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "text": "uma ideia mais simples de Zettlekasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        }
+      ],
+      "/uma-ideia-mais-simples-de-Zettlekasten": [
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ],
+      "/usos-da-curiosidade": [
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        }
+      ],
+      "/wikiblog": [
+        {
+          "source": "/wikiblog",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ]
+    },
+    "backlinks": {
+      "/Anchoring-bias": [
+        {
+          "source": "/Sistema-2",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        }
+      ],
+      "/As-grandes-mentes-discutem-ideias": [
+        {
+          "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        },
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        }
+      ],
+      "/Atomic-notes": [
+        {
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
+        },
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        }
+      ],
+      "/Daniel-Kahneman": [
+        {
+          "source": "/Sistema-1",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        }
+      ],
+      "/Decis%C3%B5es-demais-confundem-nossa-mente": [
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+          "text": "Decisões demais confundem nossa mente"
+        }
+      ],
+      "/Dont-make-me-think": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        }
+      ],
+      "/Obsidian": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/PKM": [
+        {
+          "source": "/Nick-Milo",
+          "target": "/PKM",
+          "text": "PKM"
+        },
+        {
+          "source": "/",
+          "target": "/PKM",
+          "text": "personal knowledge management"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/PKM",
+          "text": "PKM"
+        }
+      ],
+      "/Pensamento-Autom%C3%A1tico": [
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        }
+      ],
+      "/Porque-quero-tomar-notas": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        }
+      ],
+      "/Quando-n%C3%A3o-usar-atomic-notes": [
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "text": "Quando não usar atomic notes"
+        }
+      ],
+      "/Quando-usar-atomic-notes": [
+        {
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Quando-usar-atomic-notes",
+          "text": "Quando usar atomic notes"
+        }
+      ],
+      "/Sistema-1": [
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        }
+      ],
+      "/Sistema-2": [
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/T%C3%A9cnica-HQA": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-HQA",
+          "text": "Técnica HQ\u0026A"
+        }
+      ],
+      "/T%C3%A9cnica-Jump-Notes": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-Jump-Notes",
+          "text": "Técnica Jump Notes"
+        }
+      ],
+      "/Tangent": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Tangent",
+          "text": "Tangent"
+        }
+      ],
+      "/Taylor-Hadden": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        }
+      ],
+      "/The-Honest-Notes-Method": [
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        }
+      ],
+      "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade": [
+        {
+          "source": "/commonplace-book",
+          "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "text": "Um commonplace book é um excelente combustível para a criatividade"
+        }
+      ],
+      "/Wikilogging": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ],
+      "/Zettelkasten": [
+        {
+          "source": "/Wikilogging",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        }
+      ],
+      "/Zettelkasten-n%C3%A3o-%C3%A9-complicado": [
+        {
+          "source": "/Zettelkasten",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-assassina-ideias": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "text": "a fricção quase matou meu processo de notetaking"
+        }
+      ],
+      "/a-vida-%C3%A9-como-um-jardim": [
+        {
+          "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+          "target": "/a-vida-%C3%A9-como-um-jardim",
+          "text": "a vida é como um jardim"
+        }
+      ],
+      "/alimento-para-a-mente-macaco": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        }
+      ],
+      "/blogs-n%C3%A3o-s%C3%A3o-pra-mim": [
+        {
+          "source": "/Wikilogging",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        }
+      ],
+      "/commonplace-book": [
+        {
+          "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/complicador-profissional": [
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/complicador-profissional",
+          "text": "complicador profissional"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        }
+      ],
+      "/curiosidade": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/lifelong-learning",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/daily-log": [
+        {
+          "source": "/Wikilogging",
+          "target": "/daily-log",
+          "text": "daily log"
+        }
+      ],
+      "/diferen%C3%A7a-entre-blog-e-jardim-digital": [
+        {
+          "source": "/",
+          "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "text": "diferença entre blog e jardim digital"
+        }
+      ],
+      "/dont-make-me-decide": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        }
+      ],
+      "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "text": "expandir a mente e não acompanhar somente as notícias"
+        }
+      ],
+      "/fric%C3%A7%C3%A3o": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/alimento-para-a-mente-macaco",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/jardim-digital": [
+        {
+          "source": "/",
+          "target": "/jardim-digital",
+          "text": "jardim digital"
+        },
+        {
+          "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "target": "/jardim-digital",
+          "text": "jardins digitais"
+        }
+      ],
+      "/journaling": [
+        {
+          "source": "/Wikilogging",
+          "target": "/journaling",
+          "text": "journaling"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/journaling",
+          "text": "journal"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/journaling",
+          "text": "journaling"
+        }
+      ],
+      "/lifelong-learning": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        }
+      ],
+      "/melhoria-de-processos": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        }
+      ],
+      "/mente-macaco": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/journaling",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        }
+      ],
+      "/notetaking": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/outlines",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/notetaking",
+          "text": "notetaking"
+        }
+      ],
+      "/nunca-acredite-somente-nas-not%C3%ADcias": [
+        {
+          "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        },
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca devemos acreditar somente nas notícias"
+        },
+        {
+          "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/outlines": [
+        {
+          "source": "/notetaking",
+          "target": "/outlines",
+          "text": "outlines"
+        }
+      ],
+      "/pessoas-curiosas": [
+        {
+          "source": "/curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        }
+      ],
+      "/processos-de-pensamento": [
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-1",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        }
+      ],
+      "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "text": "procure por aqueles com opiniões bem informadas"
+        }
+      ],
+      "/racioc%C3%ADnio": [
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        }
+      ],
+      "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado": [
+        {
+          "source": "/curiosidade",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        }
+      ],
+      "/somos-todos-aprendizes-ao-longo-de-toda-a-vida": [
+        {
+          "source": "/lifelong-learning",
+          "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "text": "somos todos aprendizes ao longo de toda a vida"
+        }
+      ],
+      "/tipos-de-curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/tipos-de-curiosidade",
+          "text": "tipos de curiosidade"
+        }
+      ],
+      "/tomar-notas-deve-ser-simples": [
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/tomar-notas-deve-ser-simples",
+          "text": "tomar notas deve ser simples"
+        }
+      ],
+      "/uma-ideia-mais-simples-de-Zettlekasten": [
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "text": "uma ideia mais simples de Zettlekasten"
+        }
+      ],
+      "/usos-da-curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/usos-da-curiosidade",
+          "text": "usar a curiosidade"
+        }
+      ],
+      "/wiki": [
+        {
+          "source": "/Wikilogging",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/wiki",
+          "text": "wiki"
+        }
+      ],
+      "/wikiblog": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        },
+        {
+          "source": "/",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Anchoring-bias",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/Anchoring-bias",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/Daniel-Kahneman",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Daniel-Kahneman",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/Daniel-Kahneman",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/Dont-make-me-think",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/Dont-make-me-think",
+      "target": "/melhoria-de-processos",
+      "text": "melhoria de processos"
+    },
+    {
+      "source": "/Dont-make-me-think",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/Dont-make-me-think",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
+    },
+    {
+      "source": "/Nick-Milo",
+      "target": "/PKM",
+      "text": "PKM"
+    },
+    {
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "target": "/Atomic-notes",
+      "text": "Atomic notes"
+    },
+    {
+      "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "target": "/Quando-usar-atomic-notes",
+      "text": "Quando usar atomic notes"
+    },
+    {
+      "source": "/Quando-usar-atomic-notes",
+      "target": "/Atomic-notes",
+      "text": "Atomic notes"
+    },
+    {
+      "source": "/Quando-usar-atomic-notes",
+      "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "text": "Quando não usar atomic notes"
+    },
+    {
+      "source": "/Sistema-1",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Sistema-1",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/Sistema-2",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Sistema-2",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/Sistema-2",
+      "target": "/Anchoring-bias",
+      "text": "Anchoring bias"
+    },
+    {
+      "source": "/Taylor-Hadden",
+      "target": "/Obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/Taylor-Hadden",
+      "target": "/Tangent",
+      "text": "Tangent"
+    },
+    {
+      "source": "/Taylor-Hadden",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/Taylor-Hadden",
+      "target": "/wikiblog",
+      "text": "wikiblog"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/T%C3%A9cnica-HQA",
+      "text": "Técnica HQ\u0026A"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/T%C3%A9cnica-Jump-Notes",
+      "text": "Técnica Jump Notes"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/The-Honest-Notes-Method",
+      "text": "The Honest Notes Method"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/The-Honest-Notes-Method",
+      "text": "The Honest Notes Method"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/complicador-profissional",
+      "text": "complicador profissional"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/daily-log",
+      "text": "daily log"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/journaling",
+      "text": "journaling"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/wiki",
+      "text": "wiki"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+      "text": "blogs não são pra mim"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/wikiblog",
+      "text": "wikiblog"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Atomic-notes",
+      "text": "notas atômicas"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/tomar-notas-deve-ser-simples",
+      "text": "tomar notas deve ser simples"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "text": "Zettelkasten não é complicado"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/",
+      "target": "/jardim-digital",
+      "text": "jardim digital"
+    },
+    {
+      "source": "/",
+      "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+      "text": "diferença entre blog e jardim digital"
+    },
+    {
+      "source": "/",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/",
+      "target": "/PKM",
+      "text": "personal knowledge management"
+    },
+    {
+      "source": "/",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/",
+      "target": "/wikiblog",
+      "text": "wikiblog"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "text": "a fricção quase matou meu processo de notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/PKM",
+      "text": "PKM"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "text": "a fricção assassina ideias"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+      "target": "/a-vida-%C3%A9-como-um-jardim",
+      "text": "a vida é como um jardim"
+    },
+    {
+      "source": "/alimento-para-a-mente-macaco",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/commonplace-book",
+      "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+      "text": "Um commonplace book é um excelente combustível para a criatividade"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/usos-da-curiosidade",
+      "text": "usar a curiosidade"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "text": "ser curioso é um ingrediente chave do aprendizado"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/tipos-de-curiosidade",
+      "text": "tipos de curiosidade"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/journaling",
+      "text": "journal"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+      "target": "/jardim-digital",
+      "text": "jardins digitais"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+      "text": "Decisões demais confundem nossa mente"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/melhoria-de-processos",
+      "text": "melhoria de processos"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca acredite somente nas notícias"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "text": "a fricção assassina ideias"
+    },
+    {
+      "source": "/jardim-digital",
+      "target": "/wiki",
+      "text": "wiki"
+    },
+    {
+      "source": "/jardim-digital",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/journaling",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/journaling",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/journaling",
+      "target": "/Anchoring-bias",
+      "text": "Anchoring bias"
+    },
+    {
+      "source": "/lifelong-learning",
+      "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "text": "somos todos aprendizes ao longo de toda a vida"
+    },
+    {
+      "source": "/lifelong-learning",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/journaling",
+      "text": "journaling"
+    },
+    {
+      "source": "/notetaking",
+      "target": "/outlines",
+      "text": "outlines"
+    },
+    {
+      "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+      "text": "expandir a mente e não acompanhar somente as notícias"
+    },
+    {
+      "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+      "text": "procure por aqueles com opiniões bem informadas"
+    },
+    {
+      "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+      "target": "/As-grandes-mentes-discutem-ideias",
+      "text": "As grandes mentes discutem ideias"
+    },
+    {
+      "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca devemos acreditar somente nas notícias"
+    },
+    {
+      "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+      "target": "/As-grandes-mentes-discutem-ideias",
+      "text": "As grandes mentes discutem ideias"
+    },
+    {
+      "source": "/outlines",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/pessoas-curiosas",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/pessoas-curiosas",
+      "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "text": "ser curioso é um ingrediente chave do aprendizado"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca acredite somente nas notícias"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/lifelong-learning",
+      "text": "aprendizado ao longo da vida"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/lifelong-learning",
+      "text": "aprendizado ao longo da vida"
+    },
+    {
+      "source": "/tipos-de-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/tipos-de-curiosidade",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "text": "Zettelkasten não é complicado"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "text": "uma ideia mais simples de Zettlekasten"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Atomic-notes",
+      "text": "notas atômicas"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+      "text": "blogs não são pra mim"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    }
+  ]
+}

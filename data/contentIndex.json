@@ -1,0 +1,416 @@
+{
+  "/": {
+    "title": "Bem-vindo à minha mente",
+    "content": "\nEste [[jardim digital]] é uma coleção dos meus **pensamentos**, representados em **notas**. Ele é diferente de um blog (veja a [[diferença entre blog e jardim digital]]). Estas páginas estão aqui como uma coleção aberta das notas, recursos, esboços e explorações que eu faço ao longo da minha vida, enquanto aprendo, sendo também uma espécie de **aprendizado em público**.\n\nEste **jardim digital** começou a nascer, ainda somente dentro da minha mente, a partir do momento em que eu comecei a me interessar por [[lifelong learning]] e por [[PKM|personal knowledge management]], sendo que, depois de muita tentativa e erro, começou a ganhar forma física (quer dizer, **_digital_**), graças ao [[Wikilogging]], sistema criado pelo [[Taylor Hadden]].\n\nÀ medida que eu escrevo, as anotações começam a se interconectar cada vez mais, pois os conceitos que vão aparecendo começam a se relacionar. Independente disso, quer  seja uma nota, recurso, esboço ou exploração, se você encontrar neste jardim, foi porque me senti compelido a compartilhar.\n\nAo navegar nesta parte do meu site, você vai reparar que as informações compartilhadas estão em diversos graus: algumas coisas estão mais completas, algumas coisas menos completas — e tudo bem ser assim. Pois é assim que nossa mente funciona: quanto mais conhecimento adquirimos, mais eles crescem, mais o jardim evolui e contribui para a formação de um [[wikiblog]].",
+    "lastmodified": "2023-01-20T22:15:17-03:00",
+    "tags": null
+  },
+  "/Anchoring-bias": {
+    "title": "Anchoring bias",
+    "content": "\n**Anchoring bias**, ou **efeito de ancoragem**, conceito apresentado no [segundo episódio](https://trakt.tv/shows/money-explained/seasons/1/episodes/2) da série **Money, Explained** na Netflix, é a tendência que nosso cérebro tem de favorecer a primeira informação que lhe é apresentada ou oferecida.\n\nO _anchoring bias_ contribui para tomadas de decisão muito rápidas e sem ponderação, o que remete ao [[Sistema 1]] de pensamento. Deve, então, ser combatido com o [[Sistema 2]], mais analítico e lógico.\n\nUma pessoa que paga o valor mínimo mensal em suas faturas de cartão de crédito é afetada pelo efeito de ancoragem porque, ao visualizar o campo com o valor de pagamento mínimo, costumam _automaticamente_ considerar aquele o melhor negócio pra elas.",
+    "lastmodified": "2023-01-20T21:35:36-03:00",
+    "tags": null
+  },
+  "/As-grandes-mentes-discutem-ideias": {
+    "title": "As grandes mentes discutem ideias",
+    "content": "\nConforme a seguinte citação:\n\n\u003e \"Great minds discuss ideas. \n\u003e Average minds discuss events. \n\u003e Small minds discuss people.\"\n\u003e ~ *Eleanor Roosevelt*\n\nA discussão de ideias significa entender as *mensagens de alto nível* que ocorrem por detrás de eventos, compreender o comportamento humano olhar além dos fatos conhecidos e encontrar soluções para ajudar o mundo. \n\nDiscutir as pessoas como finalidade, simplesmente pelas pessoas em si, e inclusive a título de fofoca, é algo **extremamente raso**. Infelizmente, uma grande parcela das pessoas e da mídia atual parecem dedicar suas vidas exatamente a falar sobre pessoas.\n- Ao deixar de *discutir pessoas* e passar a *discutir eventos*, há uma melhora porque começa-se a olhar *além das pessoas* e concentrar-se nos eventos com objetividade, considerando fatos, números e acontecimentos.\n\nConforme uma pessoa se torna mais curiosa em relação ao mundo que a cerca e olha para além daquilo que está imediatamente visível, ela começa a falar não somente de pessoas e de eventos, **mas de ideias**.\n\n**Discutir ideias** significa não considerar somente o que nos é apresentado, mas *cavar mais fundo*. **Entender causas raiz.** Entender como foi que algo se concretizou, questionar as realidades, identificar soluções.\n\n---\nReferência: [[Great Minds Discuss Ideas. Average Minds Discuss Events. Small Minds Discuss People.]]\n\n\n\n\n\n\n",
+    "lastmodified": "2023-01-20T21:32:16-03:00",
+    "tags": null
+  },
+  "/Atomic-notes": {
+    "title": "Atomic notes",
+    "content": "",
+    "lastmodified": "2023-01-20T21:35:47-03:00",
+    "tags": null
+  },
+  "/Daniel-Kahneman": {
+    "title": "Daniel Kahneman",
+    "content": "\n**Daniel Kahneman** é um renomado psicólogo estudioso do campo de economia comportamental, influente nos tópicos de julgamento e tomada de decisão. Seu livro de 2011, \"Rápido e Devagar, duas formas de pensar\", popularizou os [[processos de pensamento]] através dos conceitos de [[Sistema 1]] e [[Sistema 2]].",
+    "lastmodified": "2023-01-20T21:36:57-03:00",
+    "tags": null
+  },
+  "/Decis%C3%B5es-demais-confundem-nossa-mente": {
+    "title": "Decisões demais confundem nossa mente",
+    "content": "",
+    "lastmodified": "2023-01-20T21:37:04-03:00",
+    "tags": null
+  },
+  "/Dont-make-me-think": {
+    "title": "Don't make me think",
+    "content": "\n**Don't Make Me Think** é um princípio fundamental de design de software que recebe o mesmo nome do livro escrito por seu autor, [Steve Krug](https://en.wikipedia.org/wiki/Steve_Krug), que visa obter **usabilidade**, **brevidade** e **foco**. Define que um bom software ou website deve ser **intuitivo**, isto é, que sua facilidade de uso seja tamanha que nenhum usuário precise parar para pensar antes de usá-lo.\n\nO princípio **Don't make me think** prega que, já que os seres humanos tendem a escolher a primeira solução disponível para seus problemas, o _design_ da solução deve se aproveitar disso, tornando qualquer tarefa que o usuário precise completar tão fácil e direta quanto possível.\n\n Em vários outros contextos, como, por exemplo, [[notetaking]] e [[melhoria de processos]], a não observação do princípio **don't make me think** pode levar à necessidade de tomar decisões desnecessárias, que vão distrair uma pessoa de seu objetivo final, diminuir seu foco e produtividade, estressá-la e [alimentar sua mente macaco]([[alimento para a mente macaco]]). Para evitar este tipo de problema, o princípio **don't make me think** deve ser adaptado para [[don't make me decide]].",
+    "lastmodified": "2023-01-20T21:37:30-03:00",
+    "tags": null
+  },
+  "/John-Gall": {
+    "title": "John Gall",
+    "content": "\n**John Gall** foi um autor e pediatra aposentado americano, que escreveu o livro **The Systems Bible: The Beginner's Guide to Systems Large and Small**, onde propôs a **Lei de Gall**.",
+    "lastmodified": "2023-01-20T21:37:55-03:00",
+    "tags": null
+  },
+  "/Nick-Milo": {
+    "title": "Nick Milo",
+    "content": "\nNick Milo é um engenheiro, *note-taker* e *map-maker* que criou o seminário [Linking Your Thinking](https://www.linkingyourthinking.com/) e também um [canal no YouTube](https://youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA) com o mesmo nome, onde traz vídeos e dicas sobre [[PKM]] e ferramentas associadas.",
+    "lastmodified": "2023-01-20T21:38:34-03:00",
+    "tags": null
+  },
+  "/Obsidian": {
+    "title": "Obsidian",
+    "content": "",
+    "lastmodified": "2023-01-20T21:39:21-03:00",
+    "tags": null
+  },
+  "/PKM": {
+    "title": "PKM",
+    "content": "",
+    "lastmodified": "2023-01-20T21:40:00-03:00",
+    "tags": null
+  },
+  "/Pensamento-Autom%C3%A1tico": {
+    "title": "Pensamento Automático",
+    "content": "\nO **pensamento automático** é um dos [[processos de pensamento]]  humano.\n\nO termo **pensamento automático** pode ser usado de maneira intercambiável com o pensamento do [[Sistema 1]], e se opõe ao [[raciocínio]].",
+    "lastmodified": "2023-01-20T21:39:44-03:00",
+    "tags": null
+  },
+  "/Porque-quero-tomar-notas": {
+    "title": "Porque quero tomar notas",
+    "content": "\nEu sempre gostei de escrever, e sempre considerei que escrevo com facilidade. Em alguns momentos, escrever chega a ser algo muito relaxante.\n\nEu também sempre me considerei extremamente curioso e, desde que conheci o conceito de [[lifelong learning]] eu penso em maneiras de viabilizar meu  aprendizado contínuo e de satisfazer minha [[curiosidade]] — e **tomar notas** parece ser algo extremamente pertinente em ambos os casos.\n\nTomando notas eu consigo expressar melhor os meus aprendizados e manter a [[mente macaco]] sob controle. Escrever também é uma forma de **ensinar**. E com o conjunto correto de notas eu posso repassar aquilo que assimilo.\n\nA forma mais interessante e que menos me fez sentir [[fricção]] para tomar notas que eu encontrei foi a técnica de [[Wikilogging]], desenvolvida pelo [[Taylor Hadden]].",
+    "lastmodified": "2023-01-20T21:40:07-03:00",
+    "tags": null
+  },
+  "/Quando-n%C3%A3o-usar-atomic-notes": {
+    "title": "Quando não usar atomic notes",
+    "content": "\nNas situações em que se está tomando notas de cursos, fazendo trabalhos escolares ou estudando para provas, as [[Atomic notes]] muito provavelmente não são a abordagem mais efetiva.  \n\n[[Quando usar atomic notes]]",
+    "lastmodified": "2023-01-20T21:40:23-03:00",
+    "tags": null
+  },
+  "/Quando-usar-atomic-notes": {
+    "title": "Quando usar atomic notes",
+    "content": "\nQuando se está fazendo a própria leitura, ou seja, aprendendo por conta própria e no seu ritmo, e se é capaz de escolher o que vai ser anotado, as [[Atomic notes]]são úteis para desenvolver seus pensamentos. \n\n[[Quando não usar atomic notes]]",
+    "lastmodified": "2023-01-20T21:40:35-03:00",
+    "tags": null
+  },
+  "/Sistema-1": {
+    "title": "Sistema 1",
+    "content": "\nO **Sistema 1** é um de nossos [[processos de pensamento]], cujo conceito foi introduzido por [[Daniel Kahneman]].\n\nO **Sistema 1** representa as respostas rápidas, automáticas, inconscientes e emocionais de nosso cérebro aos cenários, situações e decisões que nos são apresentadas no dia-a-dia.\n- As respostas automáticas do **Sistema 1** podem ser ler o texto de um _outdoor_ ou quadro de avisos de forma distraída (e automática), saber como amarrar os sapatos ou trocar a marcha do carro enquanto se dirige sem ter que pensar duas vezes a respeito, ou ainda pular uma poça d'água na rua instintivamente quando está chovendo ou acabou de chover.",
+    "lastmodified": "2023-01-20T21:40:57-03:00",
+    "tags": null
+  },
+  "/Sistema-2": {
+    "title": "Sistema 2",
+    "content": "\nO **Sistema 2** é um de nossos [[processos de pensamento]], cujo conceito foi introduzido por [[Daniel Kahneman]].\n\nO **Sistema 2** representa o modo lento, esforçado e lógico com o qual nossos cérebros funcionam quando os cenários, situações e decisões que nos são apresentadas no dia-a-dia nos levam à necessidade de resolver **problemas mais complexos**.\n- As respostas mais _elaboradas_ do **Sistema 2** entram em ação quando estamos procurando por u amigo no meio de uma multidão, estacionando nosso carro em uma vaga particularmente pequena ou determinando a relação qualidade x valor do almoço que estamos prestes a escolher.\n- As respostas mais elaboradas do **Sistema 2** representam decisões analíticas, o que significa que empregar tal sistema evita que sejamos vítimas do [[Anchoring bias]].",
+    "lastmodified": "2023-01-20T21:41:04-03:00",
+    "tags": null
+  },
+  "/T%C3%A9cnica-HQA": {
+    "title": "Técnica HQ\u0026A",
+    "content": "\nA **técnica HQ\u0026A**, um dos componentes do [[The Honest Notes Method]], é uma técnica que pode ser empregada no processo de [[notetaking]].\n\nAs três letras que compõem a sigla da técnica significam **highlight** (destacar), **question** (perguntar) e **answer** (responder).\n\nAo consumir **não-ficção**, deve-se **destacar** cada passagem considerada interessante, adicionando uma **pergunta** que se considere respondida pela passagem destacada. Em seguida, deve-se escrever uma **resposta** para a pergunta, usando para isso nossas próprias palavras.\n\nO processo de **pensar na resposta que será escrita** requer que empreguemos nosso [[raciocínio]] de uma forma lenta e analítica, associada ao [[Sistema 2]] dos [[processos de pensamento]].",
+    "lastmodified": "2023-01-20T21:41:38-03:00",
+    "tags": null
+  },
+  "/T%C3%A9cnica-Jump-Notes": {
+    "title": "Técnica Jump Notes",
+    "content": "\n**Jump Notes**, um dos componentes do [[The Honest Notes Method]], é uma técnica que pode ser empregada no processo de [[notetaking]].\n\nA técnica deve ser usada quando é necessário pensar rapidamente, como nas situações em que estamos ouvindo alguém em tempo real (em uma apresentação, reunião, _live streaming_ ou _podcast_) ou quando estamos em meio a uma grande leitura e queremos anotar algo sei arruinar a ocasião.\n\n**Jump Notes**, segundo seu autor, [Jamie Miles](https://twitter.com/JamoeMills), é uma reinvenção do processo de *mind mapping* que deve ser empregada quando precisamos pensar rapidamente, sobretudo na maior parte das situações de trabalho ou de estudo, em que pausar não é prático nem preferível.\n\nApesar do nome pomposo que certamente foi pensado por um [[complicador profissional]], aplicar **Jump Notes** nada mais é do que **rabiscar** algum ponto-chave de informação,  como um conceito, um nome ou um valor, ignorando usar marca-textos ou destacar o texto, e ignorando usar _balões_ para circular as coisas. Você simplesmente escreve o conceito de qualquer jeito e retorna o foco àquilo que está ouvindo ou fazendo.\n\nComo a técnica **Jump Notes** requer [[Pensamento Automático]], ela pode ser associada ao [[Sistema 1]] dos [[processos de pensamento]].",
+    "lastmodified": "2023-01-20T21:41:46-03:00",
+    "tags": null
+  },
+  "/Tangent": {
+    "title": "Tangent",
+    "content": "",
+    "lastmodified": "2023-01-20T21:41:19-03:00",
+    "tags": null
+  },
+  "/Taylor-Hadden": {
+    "title": "Taylor Hadden",
+    "content": "\n[Taylor Hadden](https://everything-abridged.com/) é um desenvolvedor de software que trabalha com ferramentas para criação de videogames profissionalmente e um ex-usuário de [[Obsidian]] — que deixou de usá-lo desde que começou a trabalhar no [[Tangent]].\n\nEle compartilhou publicamente os conceitos de [[Wikilogging]] e de [[wikiblog]], a partir dos quais me senti mais à vontade para começar a tomar minhas próprias notas de uma forma estruturada.",
+    "lastmodified": "2023-01-20T21:41:31-03:00",
+    "tags": null
+  },
+  "/The-Honest-Notes-Method": {
+    "title": "The Honest Notes Method",
+    "content": "\n*The Honest Notes Method* é um método de [[notetaking]] que se concentra na leitura de qualquer tipo de material **não-ficção**, incluindo livros, revistas, artigos, matérias de sites e até na audição de *podcasts*.\n\nSeu autor, [Jamie Miles](https://twitter.com/JamoeMills), divide o método em duas técnicas, apelidando-as de “*garfo e faca da anotação*”.\n\nEntendo haver uma ligação entre o método e os [[processos de pensamento]] do [[Sistema 1]] e do [[Sistema 2]] do cérebro humano, introduzidos por [[Daniel Kahneman]].\n- A primeira técnica do *The Honest Notes Method* envolve o pensamento lento — *thinking slow* — e se chama [HQ\u0026A]([[Técnica HQ\u0026A]]).\n- A segunda técnica do método envolve o pensamento rápido — *thinking falar* — e se chama [Jump Notes]([[Técnica Jump Notes]]).",
+    "lastmodified": "2023-01-20T21:41:53-03:00",
+    "tags": null
+  },
+  "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade": {
+    "title": "Um commonplace book é um excelente combustível para a criatividade",
+    "content": "\nA mistura de ordem e desordem existente em um [[commonplace book]] é um excelente **combustível para a criatividade** —  traz a possibilidade de **estruturar conhecimento** de uma forma muito particular, recombinando diversos fragmentos de texto e de informação inicialmente desconectados para formar **novos padrões** e **ideias originais**.",
+    "lastmodified": "2023-01-20T21:42:27-03:00",
+    "tags": null
+  },
+  "/Wikilogging": {
+    "title": "wikilogging",
+    "content": "\n**Wikilogging** é o termo cunhado por [[Taylor Hadden]] para descrever seu processo de [[notetaking]]. Tal processo [não deve ser complicado e nem repleto de regras](https://discord.com/channels/916069148403068968/916069148403068972/989655910811054080).\n\nUm [[daily log]] captura os pensamentos temporais de Taylor e também todo o input criado por ele através da prática de [[journaling]]. Já as *memetic evergreen notes* capturam seus pensamentos relacionados a tópicos concretos em um [[wiki]] interconectado que é atualizado sempre que seus pensamentos a respeito evoluem ou se modificam.\n\nMinha identificação com o _wikilogging_ foi quase que imediata, porque me parece ser uma forma de tomar notas que me causa muito menos [[fricção]] do que métodos alternativos e mais _populares, como o_ [[Zettelkasten]].\n\nAlém disso, como cheguei recentemente à conclusão de que [[blogs não são pra mim]], praticar *wikilogging* permite que eu gere um [[wikiblog]].",
+    "lastmodified": "2023-01-20T21:43:08-03:00",
+    "tags": null
+  },
+  "/Zettelkasten": {
+    "title": "Zettelkasten",
+    "content": "\n**Zettelkasten** é um método de [[notetaking]] que tem ganhado popularidade nos últimos tempos. A essência do método é **produzir conhecimento** que se desenvolve através de notas interconectadas. A essência do método está em permitir **escrever mais e melhor**, sendo mais produtivo, e não em **aprender**.\n\n[[Zettelkasten não é complicado]], porém os [[complicador profissional|complicadores profissionais]] se esforçado para demonstrar o contrário. Para mim mesmo, graças a eles, o Zettelkasten não se mostrou o melhor método de tomar notas. Acabei optando pelo [[Wikilogging]], que me é mais natural e também causador de menos [[fricção]].",
+    "lastmodified": "2023-01-20T21:43:14-03:00",
+    "tags": null
+  },
+  "/Zettelkasten-n%C3%A3o-%C3%A9-complicado": {
+    "title": "Zettelkasten não é complicado",
+    "content": "\nO [[Zettelkasten]] não é complicado. Ao menos, não se lermos o que [Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) praticava de fato e **ignorarmos** as complexidades digitais introduzidas por sites como [zettelkasten.de](https://zettelkasten.de), [Ahrens](https://twitter.com/soenke_ahrens) e os [[complicador profissional|complicadores profissionais]] vendendo seus próprios sistemas de PKM.\n\nO que manter o método do **zettelkasten** em funcionamento realmente requer é que a pessoa tenha disciplina para aplicá-lo de forma regular, o que não vai ser tão difícil de fazer para quem tem isso como parte do seu trabalho, revisando suas anotações manualmente e entender que **o ponto do sistema é escrever, e não aprender.**\n\nTodos os estudantes que têm evangelizado o método do zettelkasten esperando que o método vá ajudá-los a melhorar suas notas e sua capacidade de aprender deveriam ter em mente que o método **nunca foi criado com essa finalidade**. Na verdade, o método era um sistema de trabalho de um acadêmico que se ocupava de escrever livros, artigos e de dar palestras, nunca tendo que se preocupar com cozinhar seu próprio jantar.\n\nO sistema [[Zettelkasten]] de [Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) se resume todo a **pensar**. E **escrever**, que era o _trabalho dele_. Como sociologista, aplicar o método significava que ele não tinha que _experimentar_ com uma série de leituras.\n\nQuando se está consumindo a própria leitura, talvez num processo de [[lifelong learning]], e se é capaz de **escolher** o que vai escrever, [[Atomic notes|notas atômicas]] são bastante úteis para desenvolver seu pensamento. No entanto, se você estiver frequentando aulas, ou estiver prestes a passar por exames ou tiver que entregar trabalhos, elas provavlmente não serão a melhor abordagem.\n\n**As notas escritas por [Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) não são atômicas**, visto que elas tinham que ser compactadas em um cartão de índice. Assim, o que ele escrevia não era sempre atômico (e tudo bem).\n\n[Sönke Ahrens](https://twitter.com/soenke_ahrens) também fala o tempo todo de consumir leitura e de anotar referências e fontes. Esta é uma metodologia acadêmica, também voltada para alunos. Ele misturou algumas das ideias de [Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) com as suas próprias ideias sobre ensinar.\n\nSe você não for um acadêmico, e se você não for um pesquisador ou cientista, mas apenas uma pessoa normal como eu, tentando apenas [aprender ao longo da vida]([[lifelong learning]]),então o ato de [[tomar notas deve ser simples]].",
+    "lastmodified": "2023-01-20T21:43:23-03:00",
+    "tags": null
+  },
+  "/a-fric%C3%A7%C3%A3o-assassina-ideias": {
+    "title": "a fricção assassina ideias",
+    "content": "\nOs princípios [[Don’t make me think]] e [[don't make me decide]] são muito importantes para evitar que a fricção se instale, complique as coisas e se torne [[alimento para a mente macaco]].\n\nQuando temos um desejo muito grande de fazer alguma coisa, de iniciar ou concluir alguma coisa, cada decisão extra que for necessária até que uma ação seja efetivamente concluída vai representar [[fricção]]  adicional. Aos poucos as necessidades de decidir acumuladas fazem com que **a fricção assassine ideias**, porque nosso desejo de transformar nossas ações em resultados práticos vai sendo minado. Tanto é que [[a fricção quase matou meu processo de notetaking]].",
+    "lastmodified": "2023-01-20T21:35:09-03:00",
+    "tags": null
+  },
+  "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking": {
+    "title": "a fricção quase matou meu processo de notetaking",
+    "content": "\nDesde a primeira vez em que ouvi falar de [[notetaking]], eu quis praticar o processo. Faz parte do [[Porque quero tomar notas]]. Mas o problema é que, na ânsia de querer começar logo, de querer fazer certo da primeira vez, acabei me deixando levar pelos [[complicador profissional|complicadores profissionais]] do universo do [[PKM]].\n\nÉ preciso entender que **cada pessoa acaba tomando notas à sua própria maneira**, e isso acontece porque as minhas necessidades que levam cada um a tomar notas são motivadas por fatores que são diferentes de pessoa para pessoa. Não existe um _remédio universal_, uma solução única para um problema, e achar o contrário causa uma [[fricção]] gigantesca, que nossa [[mente macaco]] adora.\n\nAo invés de tomar notas com papel e caneta, por ser alguém muito ligado à tecnologia, decidi optar pelo [[notetaking]] digital. E logo minha cabeça foi dominada pela [[mente macaco]]. Entre as decisões que por algum motivo eu me vi forçado a tomar estavam:\n- Onde eu devo colocar a nota?\n- Como devo nomear a nota?\n- Devo usar pastas? Usar tags? Não usar nada?\n- Como eu tenho que estruturar o documento?\n- Uso [[Zettelkasten]] e sigo o que a maioria está fazendo?\n- Se eu usar o Zettelkasten e quiser registrar apenas um pensamento simples, isso é uma nota permanente, uma nota de literatura ou uma _fleeting note_? E por que?\n- Será que eu vou olhar pra essa nota algum dia de novo no futuro?\n\nDevido a tanta [[fricção]], muitas das ideias que eu tive ao longo do meu contato com [[notetaking]] nunca sobreviveram, e a minha vontade de continuar a tentar quase se esgotou. Ou seja, percebi que por não levar em conta, para minha própria sanidade mental, os princípios [[Don’t make me think]] e [[don't make me decide]], tornei [a fricção uma assassina de ideias]([[a fricção assassina ideias]]).\n\nA situação somente se inverteu depois que eu me deparei com as ideias do [[Taylor Hadden]] e seu próprio processo de [[notetaking]], ao qual ele chamou de [[Wikilogging]]. É este o processo que passei a praticar e que me salvou.",
+    "lastmodified": "2023-01-20T21:35:17-03:00",
+    "tags": null
+  },
+  "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim": {
+    "title": "a utilidade do que escrevo é primariamente para mim",
+    "content": "\nTenho a convicção de que, num âmbito profissional, independentemente daquilo que eu produzo e compartilho — *posts* em um blog, artigos ou ideias em um *jardim digital* ou até mesmo um vídeo publicado, por exemplo, no YouTube —, **o caso de uso primário é que o resultado seja útil para mim mesmo**. \n\nEsta convicção não significa que eu não me importe com aqueles que venham a consumir o que eu produzi ou compartilhei. apenas que aquilo que faço, mesmo compartilhado, é para mim. É feito para registrar aquilo que penso e que sei, preservando informações no espaco e no tempo em uma memória digital futuramente acessível, já que [[a vida é como um jardim]].\n\n---\nInspirado por [este highlight que fiz no Readwise](https://readwise.io/bookreview/22158406?highlight=436821991).",
+    "lastmodified": "2023-01-20T21:20:15-03:00",
+    "tags": null
+  },
+  "/a-vida-%C3%A9-como-um-jardim": {
+    "title": "a vida é como um jardim",
+    "content": "\nA vida é como um jardim. Podemos vivenciar muitos momentos perfeitos, porém, a única maneira de preservá-los é em nossas memórias.\n\n\u003e\"A life is like a garden. Perfect moments can be had, but not preserved. Except in memory.\"\n\u003e ~ Leonard Nimoy\n\n",
+    "lastmodified": "2023-01-20T21:32:02-03:00",
+    "tags": null
+  },
+  "/alimento-para-a-mente-macaco": {
+    "title": "alimento para a mente macaco",
+    "content": "\nDado que a **mente macaco** ativa é contraproducente, entendo que devemos evitar qualquer coisa que possa **alimentar** o macaco.\n\n**Alimentar o macaco** significa torná-lo mais forte e mais presente em nossa mente e nossos pensamentos, o que vai potencializar seus efeitos sobre nós: os pensamentos se tornam menos claros, focar uma atividade se torna praticamente impossível, nossas decisões se tornam menos racionais e mais impulsivas, nosso nível de estresse aumenta e nossa produtividade é drasticamente reduzida.\n\nA [[fricção]], por representar uma distração inoportuna, é um **alimento para a mente macaco**.",
+    "lastmodified": "2023-01-20T21:35:28-03:00",
+    "tags": null
+  },
+  "/blogs-n%C3%A3o-s%C3%A3o-pra-mim": {
+    "title": "blogs não são para mim",
+    "content": "",
+    "lastmodified": "2023-01-20T21:36:18-03:00",
+    "tags": null
+  },
+  "/commonplace-book": {
+    "title": "commonplace book",
+    "content": "\n*Commonplace books* são **cadernos de anotações** que escritores e poetas começaram a usar na antiguidade, para coletar citações e trechos de livros que liam, formando para si uma espécie de *enciclopédia particular*.\n\n[[Um commonplace book é um excelente combustível para a criatividade]].",
+    "lastmodified": "2023-01-20T21:36:27-03:00",
+    "tags": null
+  },
+  "/complicador-profissional": {
+    "title": "complicador profissional",
+    "content": "\nUm **complicador profissional** é uma pessoa capaz de pegar um conceito extremamente simples e aplicável ao dia-a-dia de qualquer pessoa e transformá-lo em algo **extremamente complexo**.\n\nDiversos _youtubers_, _coaches_ e _profissionais_  da produtividade podem ser enquadrados como **complicadores profissionais**. É verdade que nem todos estes _**são**_ complicadores, e que nem todos **_agem de caso pensado_**, porém acabam, com sua prática, causando estresse demais e complicação desnecessária à adoção de métodos simples, como deveria ser o [[Zettelkasten]].\n\nUma pessoa desavisada pode se tornar um **complicador profissional** muito facilmente. Normalmente, isso ocorre devido a **querer explicar algum conceito sem entender muito a respeito do assunto** ou **sem ter praticado o conceito por tempo suficiente**. Na prática, isso acaba gerando [[fricção]] capaz de servir como [[alimento para a mente macaco]].",
+    "lastmodified": "2023-01-20T21:36:35-03:00",
+    "tags": null
+  },
+  "/curiosidade": {
+    "title": "curiosidade",
+    "content": "\n**Curiosidade** é um desejo forte de aprender, saber, ou passar a conhecer alguma coisa, que as [[pessoas curiosas]] possuem. Podemos [[usos da curiosidade|usar a curiosidade]] de algumas formas diferentes nas nossas vidas.\n\n[[ser curioso é um ingrediente chave do aprendizado]], mas algo que poucas pessoas sabem é que existem vários [[tipos de curiosidade]].",
+    "lastmodified": "2023-01-20T21:36:43-03:00",
+    "tags": null
+  },
+  "/daily-log": {
+    "title": "daily log",
+    "content": "\nO **Daily log** é um elemento do [[Wikilogging]]. Trata-se de um conjunto de anotações que contém pensamentos transitórios e é análogo a um diário, ou [journal]([[journaling]]).\n\nPara [[Taylor Hadden]], a maioria das *memetic evergreen notes* começam em uma página do **daily log** antes de serem decompostas, desenvolvidas e interconectadas.",
+    "lastmodified": "2023-01-20T21:36:50-03:00",
+    "tags": null
+  },
+  "/diferen%C3%A7a-entre-blog-e-jardim-digital": {
+    "title": "diferença entre blog e jardim digital",
+    "content": "\nOs **blogs** são ferramentas sociais que, quem escreve, para cada post publicado, quer atingir uma grande quantidade de pessoas, um grande público. Cada post do blog está ali para buscar e conseguir interações, curtidas e compartilhamentos.\n\nJá os **[[jardim digital|jardins digitais]]** são mais **pessoais** e **introspectivos**, têm conteúdo que quem escreve, escreve para si próprio, como se estivesse falando sozinho, ou melhor, **consigo mesmo**. Assim, a decisão sobre **o que cultivar no jardim ao longo do tempo** é inteiramente do _jardineiro_ digital, que evolui (ou não) o que foi escrito com base no que vai aprendendo.",
+    "lastmodified": "2023-01-20T21:37:14-03:00",
+    "tags": null
+  },
+  "/dont-make-me-decide": {
+    "title": "Don't make me decide",
+    "content": "\n**Don't make me decide** pode ser entendido como um princípio derivado do princípio [[Don’t make me think]], que deve levar em conta que, como o ser humano tende a escolher a primeira solução disponível para seus problemas, **o número de decisões às quais ele deve ser exposto antes de fazer uma atividade deve preferencialmente ser zero**.\n\n[[Decisões demais confundem nossa mente]]. Assim, não apenas no design de soluções de software, mas também nos contextos de [[notetaking]] ou de [[melhoria de processos]], por exemplo, quanto menos decisões forem necessárias, menos [[fricção]] vai se fazer presente.",
+    "lastmodified": "2023-01-20T21:37:23-03:00",
+    "tags": null
+  },
+  "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias": {
+    "title": "expandir a mente e não acompanhar somente as notícias",
+    "content": "\n[[nunca acredite somente nas notícias]]. Existe um mundo inteiro repleto de conhecimento lá fora. Expandir a mente para coletar todo tipo de informação sobre um assunto de todas as fontes possíveis — desde a Wikipedia até os sites de notícias — deve ser uma prática buscada constantemente. Isso faz com que nossa consciência sobre o mundo ao nosso redor aumente.",
+    "lastmodified": "2023-01-20T21:43:32-03:00",
+    "tags": null
+  },
+  "/fric%C3%A7%C3%A3o": {
+    "title": "fricção",
+    "content": "\n**Fricção**, ou **atrito** é qualquer barreira ou distração que impede ou prejudica nossa habilidade de realizar alguma coisa.\n\nQuando **a fricção se torna muito grande**, ela age contra nosso desejo de realizar alguma coisa, trazendo a sensação de que **a recompensa não vale o esforço**.\n\nNo contexto de [[notetaking]], a **fricção** pode prejudicar a criatividade e se transformar em [[alimento para a mente macaco]]. \n\nSe não for reduzida ou controlada, [[a fricção assassina ideias]].",
+    "lastmodified": "2023-01-20T21:37:38-03:00",
+    "tags": null
+  },
+  "/jardim-digital": {
+    "title": "jardim digital",
+    "content": "\n![[digital-garden.png]]\n\nUm **jardim digital** existe para ser o **_cantinho particular_** de alguém na internet. É óbvio que à primeira vista alguém vai pensar que o _cantinho particular_ também é o site pessoal, os perfis que uma pessoa possui nas diversas redes sociais de hoje em dia ou um blog.\n\nMas os ***digital gardens*** são espaços dedicados ao **cultivo** e à **evolução** das nossas próprias ideias, nossos pensamentos, anotações e conhecimentos, que, como num jardim, às vezes crescem desenfreadamente, às vezes florescem e às vezes são podados.\n\nÉ por isso que, ao pensar em *digital garden*, um blog não é a primeira coisa que me vem à cabeça. Ao invés disso, acho o conceito mais próximo de um [[wiki]], de um [[commonplace book]] ou de bases experimentais de conhecimento.\n\n### Referências e leituras adicionais\n\n-   [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral) by Mike Caulfield\n-   [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by Tom Critchlow\n-   [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/) by Tom Critchlow\n-   [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hook\n-   [How the Blog Broke the Internet](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy\n-   [A Brief History \u0026 Ethos of the Digital Garden](https://maggieappleton.com/garden-history) by Maggie Appleton\n-   [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos/) by Shawn Wang\n-   [Learn In Public](https://www.swyx.io/learn-in-public) by Shawn Wang\n-   [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush\n-   [DigitalGardens](https://www.reddit.com/r/DigitalGardens/) on reddit\n-   [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) on GitHub",
+    "lastmodified": "2023-01-20T21:37:48-03:00",
+    "tags": null
+  },
+  "/journaling": {
+    "title": "journaling",
+    "content": "\n_**Journaling**_ é uma escrita atenta e reflexiva que se assemelha a escrever um diário. Consiste em escrever de forma regular — embora não necessariamente todos os dias — sobre acontecimentos, vivências e emoções do dia-a-dia.\n\nA prática de _journaling_ é simples: requer apenas parar por alguns minutos e escrever os pensamentos que estão na minha cabeça, quer em um caderno ou digitalmente, para reflexão.\n\nQuando reservo tempo para registrar e refletir sobre os acontecimentos do dia em um _journal_, esses acontecimentos podem **deixar minha cabeça**, o que aumenta minha clareza e foco mentais e mantém minha [[mente macaco]] sob controle.\n\nEscrever sobre mim, meus sentimentos e experiências usando o _journaling_ como ferramenta ajuda a identificar meus pontos fortes e fracos e melhora meu auto-conhecimento e minha auto-confiança.\n\nJá que ninguém mais deve ler as ideias registradas no meu _journal_, minha criatividade é estimulada, pois posso ser criativo sem levar em conta o que outras pessoas pensam.\n\nPraticar _journaling_ significa libertar as emoções de forma controlada e melhorar a inteligência emocional. Com isso, minhas reações impulsivas serão menos frequentes, substituídas por decisões analíticas com mais frequência. Um benefício é que, como as decisões analíticas estão ligadas ao [[Sistema 2]] do cérebro, estou menos propenso às armadilhas do [[Anchoring bias]].",
+    "lastmodified": "2023-01-20T21:38:03-03:00",
+    "tags": null
+  },
+  "/lifelong-learning": {
+    "title": "lifelong learning",
+    "content": "\nO _**lifelong learning**_, ou _aprendizado ao longo de toda a vida_, é a educação, quer formal ou informal, iniciada por conta própria para nos desenvolvermos e, sobretudo, para alcançarmos nossa **realização pessoal**. Na prática, [[somos todos aprendizes ao longo de toda a vida]].\n\nEu vejo a [[curiosidade]] como fundamental para o _lifelong learning_, já que ela nos motiva a aprender novas coisas com base naquilo pelo que nos interessamos naturalmente.\n\nA prática do _lifelong learning_ tem relação com a própria pessoa, com o que ela deseja, com reflexões pessoais sobre suas paixões e sobre o que vislumbram e idealizam para seu próprio futuro. Nós aprendemos por nós mesmos e não para outras pessoas.",
+    "lastmodified": "2023-01-20T21:38:11-03:00",
+    "tags": null
+  },
+  "/melhoria-de-processos": {
+    "title": "melhoria de processos",
+    "content": "",
+    "lastmodified": "2023-01-20T21:38:20-03:00",
+    "tags": null
+  },
+  "/mente-macaco": {
+    "title": "mente macaco",
+    "content": "\nA ideia de uma **mente macaco** vem do budismo.  O termo descreve a mente que é inquieta, que pula de pensamento em pensamento da mesma forma que um macaco pula de árvore em árvore.\n- Todos nós possuímos uma **mente macaco**, sobre a qual exercemos diferentes níveis de controle ao longo do dia. Controlar a mente macaco é importante.\n- A **mente macaco** hiperativa (ou **fora de controle**) impede que se tenha **clareza de pensamento**, causando estresse, reduzindo a produtividade e prejudicando o foco nas atividades importantes.\n- Os [alimentos para a mente macaco]([[alimento para a mente macaco]]) a tornam mais forte e devem ser evitados.\n- A mente macaco quase não consegue **existir no momento presente**, já que constantemente se distrai com os _pensamentos, temendo algo que possa vir a acontecer futuramente ou remoendo algum acontecimento passado._\n- Manter minha mente macaco sob controle é um dos motivos de [[Porque quero tomar notas]]. Outra forma de manter tal controle é através da prática do [[journaling]].",
+    "lastmodified": "2023-01-20T21:38:26-03:00",
+    "tags": null
+  },
+  "/n%C3%A3o-fofoque-sobre-as-pessoas": {
+    "title": "não fofoque sobre as pessoas",
+    "content": "\n[[As grandes mentes discutem ideias]], não pessoas. Mesmo que existam pessoas que possam fofocar a nosso respeito, não significa que devamos fazer o mesmo, pagar na mesma moeda, fofocando sobre elas.\n\nO correto é sempre pensar sobre aquilo que podemos fazer para ajudar os outros. **Se for para falar sobre uma pessoa, devemos fazer isso porque nos importamos com a pessoa em questão.**",
+    "lastmodified": "2023-01-20T21:33:22-03:00",
+    "tags": null
+  },
+  "/notetaking": {
+    "title": "notetaking",
+    "content": "\n***Notetaking*** é a prática de tomar notas, ou seja, registrar informações a partir de uma fonte de informações, que pode ser escrita, verbal ou visual.\n\nNão se trata simplesmente de *escrever alguma coisa*, mas sim de registrar uma informação de maneira a lembrar dela mais tarde, quando isso se provar útil ou necessário.\n\nExistem várias formas de *notetaking*, sendo que a minha preferida é o uso de [[outlines]].",
+    "lastmodified": "2023-01-20T21:38:44-03:00",
+    "tags": null
+  },
+  "/nulla-dies-sine-linea": {
+    "title": "nulla dies sine linea",
+    "content": "\nA expressão ***nulla dies sine linea*** é uma locução latina que significa \"**nem um só dia sem uma linha**”. Trata-se de uma expressão atribuída por [Plínio, o Velho](https://pt.wikipedia.org/wiki/Pl%C3%ADnio,_o_Velho) a [Apeles](https://pt.wikipedia.org/wiki/Apeles), que dizia não passar um só dia sem traçar uma linha, isto é, sem pintar.\n\nMas, a expressão não se refere apenas às linhas traçadas dos pintores como Apeles: pode ser especialmente aplicada aos escritores também, já que estes podem desejar não ficar um só dia sem **escrever** uma linha de texto.\n\nPara mim, que venho redescobrindo a verdadeira *terapia* que pode ser **escrever**, tentar aplicar a expressão *nulla dies sine linea* ao meu dia-a-dia é um **desejo** e, por que não dizer, um **objetivo**. Sei que pode ser complicado de atingir mas, com prática e disciplina, acredito que possa ser alcançado.\n",
+    "lastmodified": "2023-01-20T21:33:28-03:00",
+    "tags": null
+  },
+  "/nunca-acredite-somente-nas-not%C3%ADcias": {
+    "title": "nunca acredite somente nas notícias",
+    "content": "\nAcompanhar as notícias e os diversos canais onde elas são publicadas é muito fácil e rápido nos dias de hoje. No entanto, além de estar *se interando* dos acontecimentos através de uma notícia, você pode estar sendo, também, **condicionado**. Por isso as notícias não devem ser nossa única fonte de informação, e não se deve nunca acreditar somente nelas.\n\nAs notícias podem ser escritas com a omissão de informações, e até mesmo com censura. Mesmo que o governo de um país não controle aquilo que é publicado para que saia conforme seu próprio entendimento do que deve ser comunicado à população, o ponto de vista, ideologia e alianças de um canal de mídia — seja ele jornal, revista, emissora de TV, de rádio, rede social ou qualquer outro — podem influenciar como a notícia chega até nós para consumo. É necessário [[expandir a mente e não acompanhar somente as notícias]]. [[procure por aqueles com opiniões bem informadas]].",
+    "lastmodified": "2023-01-20T21:43:32-03:00",
+    "tags": null
+  },
+  "/o-homem-injusto": {
+    "title": "o homem injusto",
+    "content": "\n\"Me encontre aqui no centro\", diz o homem injusto.\n\nVocê dá um passo em direção a ele. Ele dá um passo para trás.\n\n\"Me encontre aqui no centro\", diz o homem injusto.\n\n---\nTraduzido [do post](https://elk.zone/mastodon.social/@JuliusGoat/109568469704216608) do escritor **A.R. Moxon**. Fantástico.",
+    "lastmodified": "2023-01-20T21:33:40-03:00",
+    "tags": null
+  },
+  "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam": {
+    "title": "o mundo não é tão ruim quanto os canais de notícias o pintam",
+    "content": "\nDevemos ter em mente que [[nunca acredite somente nas notícias|nunca devemos acreditar somente nas notícias]]. Assassinatos, golpes de estado, suicídios, crimes horrendos e até mesmo guerras ocorrem todos os dias. Mas quando ficamos sabendo destes acontecimentos através de notícias, nossa atenção é automaticamente direcionada àquele crime, assassinato ou acontecimento ruim.\n\nO mundo não é tão ruim quanto os canais de notícias querem nos fazer acreditar. Quando uma determinada notícia é divulgada repetidamente e destaca repetidamente um crime ou outro acontecimento ruim em um país, isso cria em nós a (falsa) noção de que vivemos em lugares altamente inseguros, quando na verdade 99,999% da população ao nosso redor consegue viver em relativa ou perfeita segurança todos os dias.\n\nAlém das notícias como fonte de informação, devemos evoluir. [[As grandes mentes discutem ideias]] e não apenas as pessoas e os eventos que nos cercam. Quando nos limitamos somente à ler aquilo que é publicado nas notícias, estamos isolando nossa mentes e pintando uma imagem extremamente distorcida do mundo ao associá-lo somente com medo e terror.",
+    "lastmodified": "2023-01-20T21:33:47-03:00",
+    "tags": null
+  },
+  "/o-recaptcha-%C3%A9-que-nos-torna-humanos": {
+    "title": "o recaptcha é que nos torna humanos",
+    "content": "\nSempre pensamos que nossa habilidade de sentir compaixão pelo próximo é que nos tornava humanos. Acontece que, na verdade, é nossa habilidade de marcar todas as imagens onde aparece um semáforo, uma bicicleta ou um barco.\n\n---\n*Ligeiramente adaptado* por mim a partir [deste toot](https://elk.zone/mastodon.juglugs.com/@juglugs/109607491640263291) do Mastodon, do usuário [Widdershins Smith](https://mastodon.juglugs.com/@juglugs), para refletir como a minha própria experiência com o recaptcha costuma ser.",
+    "lastmodified": "2023-01-20T21:33:59-03:00",
+    "tags": null
+  },
+  "/outlines": {
+    "title": "outlines",
+    "content": "\n***Outlining*** é uma das práticas mais comuns de [[notetaking]].\n\nNos *outlines*, todas as anotações e pensamentos registrados são organizados em uma estrutura lógica, visando reduzir o tempo necessário para edição e revisão.\n\nNa prática, o uso de *outlining* permite a alguém consumir **grandes quantidades de informação** em **períodos de tempo muito curtos**.",
+    "lastmodified": "2023-01-20T21:39:29-03:00",
+    "tags": null
+  },
+  "/para-ler-quando-estiver-estressado-ou-ansioso": {
+    "title": "para ler quando estiver estressado ou ansioso",
+    "content": "\nNavegar um mar de problemas pode parecer mais difícil do que realmente é.\n\nSe você está em um momento estressante, testa ‘reduzir o zoom:\n\n🔎 — fasta, afasta, afasta 🌎\n\nO mesmo momento, um outro ângulo.\n\nQual o tamanho do problema a longo prazo?\n\nPerspectiva pode transformar uma tsunami em uma gotinha.—Podemos sempre brincar de mudá-la 🙂",
+    "lastmodified": "2023-01-20T21:34:07-03:00",
+    "tags": null
+  },
+  "/pessoas-curiosas": {
+    "title": "pessoas curiosas",
+    "content": "\nAs **pessoas curiosas** não necessariamente *precisam* das informações a respeito das quais procuram saber, e procuram respostas para seus questionamentos pelo simples prazer de obter conhecimento. \n\nSua [[curiosidade]] também pode fazer com que procurem por desafios e novas experiências ativamente, para que possam ampliar seus próprios horizontes.\n\nJá [[ser curioso é um ingrediente chave do aprendizado]].",
+    "lastmodified": "2023-01-20T21:39:53-03:00",
+    "tags": null
+  },
+  "/processos-de-pensamento": {
+    "title": "processos de pensamento",
+    "content": "\nAs respostas que damos aos diferentes cenários, situações e decisões que nos são apresentadas no dia-a-dia são fornecidas através de **processos de pensamento**, para os quais os conceitos de [[Pensamento Automático]] e de [[raciocínio]] são ideias centrais.\n\nExiste uma teoria da psicologia que distingue dois tipos de processos de pensamento nos seres humanos, o **pensamento inconsciente** e o **pensamento consciente**.\n- As respostas mais corriqueiras, como que caminho tomar ao dirigir o carro para o trabalho todos os dias, lembrar do nome dos seus filhos ou andar de bicicleta são fornecidas de maneira mais instantânea, sem necessidade de realizar grandes esforços mentais e são dadas **inconscientemente**. De acordo com [[Daniel Kahneman]], respostas deste tipo são fornecidas pelo [[Sistema 1]].\n- As respostas que requerem mais esforço e uso consciente da lógica e do raciocínio, como fazer multiplicações entre 2 números de 3 algarismos ou memorizar um número muito grande de palavras ou datas ao mesmo tempo, são dadas mais lentamente e de forma **consciente**. De acordo com [[Daniel Kahneman]], respostas assim são fornecidas pelo [[Sistema 2]].",
+    "lastmodified": "2023-01-20T21:40:15-03:00",
+    "tags": null
+  },
+  "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas": {
+    "title": "procure por aqueles com opiniões bem informadas",
+    "content": "\n**Procure por aqueles que têm opiniões bem informadas.** Conecte-se com eles. Siga-os nas redes sociais. Busque oportunidades para se engajar em conversas com quem é bem informado. Leia suas atualizações e textos para aprender com a forma com que eles enxergam o mundo.\n\n[[nunca acredite somente nas notícias]]. Falar com pessoas inteligentes 10 vezes por dia sobre uma ideia, sobre um tema, é mil vezes melhor do que ler 20 artigos de notícia de diversas fontes disponíveis.",
+    "lastmodified": "2023-01-20T21:43:32-03:00",
+    "tags": null
+  },
+  "/profissional-t-shaped": {
+    "title": "profissional t-shaped",
+    "content": "\nUm profissional _t-shaped_ é aquele que possui um amplo conhecimento geral, complementado por um profundo conhecimento em uma área específica de _expertise_.\n\nPor exemplo, competência em _DevOps_, Linux e segurança da informação, tendo escrito um livro especificamente tratando sobre **criptografia.**",
+    "lastmodified": "2023-01-20T21:34:25-03:00",
+    "tags": null
+  },
+  "/quem-publica-not%C3%ADcias-tende-a-preferir-o-clickbait": {
+    "title": "quem publica notícias tende a preferir o clickbait",
+    "content": "\nSe fossem vender um jornal que só publicasse notícias boas sobre a humanidade e seus seres mais inspiradores, é quase certeza que tal jornal não venderia um só exemplar.\n\nDevido à natureza do ser humano,  os canais de notícia tendem a *sensacionalizar* e reportar **somente aquilo que provoca choque**. Em termos de internet, quem publica notícias tende a preferir a técnica do *clickbait* para capturar nossa atenção.\n\nMesmo que existam um bilhão de coisas possíveis sobre o que noticiar todos os dias, incluindo um número praticamente infinito de histórias positivas e eventos de conscientização sobre problemas imortantes, as histórias publicadas pelos canais de notícia raramente são as mais importantes: ao invés disso, são algumas das mais negativas que poderiam ser encontradas. porque são estas as notícias que produzem os melhores *clickbaits*.",
+    "lastmodified": "2023-01-20T21:34:33-03:00",
+    "tags": null
+  },
+  "/racioc%C3%ADnio": {
+    "title": "raciocínio",
+    "content": "\nO **raciocínio** é um conceito-chave dos [[processos de pensamento]] humanos, que implica no uso consciente de informações, fatos e dados para tomar uma decisão ou chegar à uma conclusáo de forma lógica.\n\nO uso do raciocínio se relaciona com o pensamento executado pelo [[Sistema 2]] de nosso cérebro, e se opõe ao [[Pensamento Automático]].",
+    "lastmodified": "2023-01-20T21:40:42-03:00",
+    "tags": null
+  },
+  "/s%C3%ADndrome-de-Estocolmo": {
+    "title": "síndrome de Estocolmo",
+    "content": "\nA **Síndrome de Estocolmo** é umestado psicológico particular em que uma pessoa, submetida a um tempo prolongado de intimidação, passa a ter simpatia e até mesmo amor ou amizade pelo seu agressor.\n\nO termo surgiu após o [Assalto de Norrmalmstorg](https://pt.wikipedia.org/wiki/Assalto_de_Norrmalmstorg), na Suécia, em agosto de 1973. **Clark Olofsson** e **Jan-Erik Olsson**, dois criminosos condenados, assaltaram um banco e fizeram quatro reféns que, ao longo de seis dias presos no cofre do banco junto com seus captores, _se uniram a eles_ e pareciam protegê-los. Deve-se notar, no entanto, que os reféns estavam, na verdade, simplesmente desconfiados da polícia sueca e de sua disposição de arriscar a vida dos reféns.\n\n### Referências\n\n- [Episódio #144 do podcast Modus Operandi](https://www.modusoperandipodcast.com/episodios/ep144-estocolmo), que trata da história do assalto e da origem do termo _Síndrome de Estocolmo_.",
+    "lastmodified": "2023-01-20T21:34:42-03:00",
+    "tags": null
+  },
+  "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado": {
+    "title": "ser curioso é um ingrediente chave do aprendizado",
+    "content": "\nO fato de **ser curioso** leva ao aumento de conhecimento. Mas a [[curiosidade]] também desenvolve a capacidade de **criar conexões** entre várias informações\n\nPara as [[pessoas curiosas]], mais importante do que obter as *respostas certas* para seus questionamentos é criar para si mesmas um ambiente onde o **questionamento contínuo** e o **aprendizado a partir do  questionamento** possam existir livremente.",
+    "lastmodified": "2023-01-20T21:40:50-03:00",
+    "tags": null
+  },
+  "/somos-todos-aprendizes-ao-longo-de-toda-a-vida": {
+    "title": "somos todos aprendizes ao longo de toda a vida",
+    "content": "\nO **[[lifelong learning|aprendizado ao longo da vida]] é parte do que significa sermos humanos.** Todos somos dotados de uma [[curiosidade]] natural, e por isso somos todos aprendizes naturais. Se nos desenvolvemos, crescemos e evoluímos, é tudo graças à nossa habilidade de aprender.\n\nTodos os dias, quer através da socialização, quer através de **tentativa e erro**, ou de estudos que iniciamos por conta própria para aprendermos a tocar um novo instrumento, cozinhar ou falar um idioma diferente, estamos praticando o [[lifelong learning|aprendizado ao longo da vida]].\n    -   Quando somos crianças, aprendemos a falar, aprendemos a andar de bicicleta e a amarrar os cadarços dos tênis, e isso reforça o fato de que somos todos _lifelong learners_.\n    -   Depois de adultos, o _lifelong learning_ continua, pois aprendemos a dirigir um carro, a usar funcionalidades recém-implantadas nos _smartphones_ e a cozinhar, quer pela primeira vez ou para aprender uma receita nova.",
+    "lastmodified": "2023-01-20T21:41:12-03:00",
+    "tags": null
+  },
+  "/tipos-de-curiosidade": {
+    "title": "tipos de curiosidade",
+    "content": "\nAs [[pessoas curiosas]] são as que possuem [[curiosidade]]. Porém, ao contrário do que muitas pessoas podem pensar, *não existe apenas um tipo de curiosidade*.\n\nNa verdade, existem **cinco tipos diferentes** de curiosidade:\n\n### **#1 - Sensibilidade à privação**\n\nSensibilidade à privação é, basicamente, reconhecer uma [lacuna de conhecimento](https://www.napratica.org.br/buscar-conhecimento-investimento/). Nessa situação, “preencher” a lacuna, ou adquirir tal compreensão, oferece alívio. E isso motiva a curiosidade. “Esse tipo de curiosidade não necessariamente é traz uma boa sensação, mas as pessoas que o experimentam trabalham incansavelmente para resolver problemas”, destacam os pesquisadores.\n\n### **#2 - Alegria em explorar**\n\nAqui a curiosidade se manifesta impulsionada pela admiração aos aspectos “fascinantes” do mundo. Para quem o vivencia, esse é um estado prazeroso.\n\n### **#3 - Curiosidade social**\n\nCuriosidade [social](https://www.napratica.org.br/como-desenvolver-soft-skills/#.W7fzcWhKjIU) é falar, ouvir e observar os outros para aprender o que eles estão pensando e fazendo. “Os seres humanos são animais inerentemente sociais, e a maneira mais eficaz e eficiente de determinar se alguém é amigo ou inimigo é obter informações.”\n\n### **#4 - Tolerância a estresse**\n\nPessoas que aceitam facilmente e até aproveitam a ansiedade associada à novidade. As pessoas que não têm essa [habilidade](https://www.napratica.org.br/habilidades-sociais-para-qualquer-profissional/) vêem as lacunas de informação, experimentam maravilhas e se interessam por complementar o conhecimento, mas dificilmente avançam e exploram mais.\n\n### **#5 - Procurar emoção**\n\nPor fim, a quinta forma de curiosidade se baseia na disposição a assumir riscos físicos, sociais e financeiros para adquirir experiências variadas, complexas e intensas. Pessoas com essa capacidade buscam ampliar a [ansiedade](https://www.napratica.org.br/dicas-para-amenizar-a-ansiedade-sobre-trabalho/) associada às novidades, e não reduzir.",
+    "lastmodified": "2023-01-20T21:42:00-03:00",
+    "tags": null
+  },
+  "/tomar-notas-deve-ser-simples": {
+    "title": "tomar notas deve ser simples",
+    "content": "\nEmbora o método [Zettelkasten não seja complicado]([[Zettelkasten não é complicado]]), é fato que **ele não se aplica a todo mundo** que resolve embarcar no universo de [[notetaking]]. Ele não é para mim, por exemplo, visto que eu resolvi abraçar o [[Wikilogging]], outra maneira de tomar notas.\n\nMas se você não é professor, acadêmico ou cientista, e acreditar que **tomar notas deve ser simples**, se tudo o que você conseguiu ao tentar aprender sobre o [[Zettelkasten]] foi arrumar mais [[fricção]] e deixar a sua [[mente macaco]] em polvorosa, e quer tentar [[uma ideia mais simples de Zettlekasten]], as dicas a seguir podem ajudar você, assim como me ajudaram.\n\nEscreva **notas simples e curtas** e não se preocupe se elas são [[Atomic notes|notas atômicas]] ou não. Quando você tiver uma ideia ou um pensamento que considerar interessante, escreva uma nota. Adicione links com pensamentos relacionados que estejam em outras notas.\n\nDe vez em quando, escreva também uma nota para explicar porque duas ou mais notas foram conectadas. Releia suas notas de vez em quando, ou apenas passe os olhos rapidamente pelo que for consolidando, e provavelmente esta simples ação fará com que mais ideias (e mais notas) apareçam aos poucos.\n\nSe fizer sentido pra você, registre também **o que provocou o pensamento** (por exemplo, de vez em quando, uma referência). Quando outro pensamento sobre essa referência surgir, você pode criar um _link_ com ela. E se não fizer sentido, tudo bem, deixe para lá.\n\nEsse é basicamente um [[Zettelkasten]]. [Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) somente adicionou para criar textos publicáveis (mas apenas algumas vezez) e gravar as referências, já que precisava delas para **publicar** seus livros e trabalhos acadêmicos. Para todos nós que não somos como ele, a dica é nunca esquecer que **tomar notas deve ser simples**.",
+    "lastmodified": "2023-01-20T21:42:10-03:00",
+    "tags": null
+  },
+  "/uma-ideia-mais-simples-de-Zettlekasten": {
+    "title": "uma ideia mais simples de Zettlekasten",
+    "content": "\n[Chris Aldrich](https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/) propõe esquecer que o [[Zettelkasten]] dos [[complicador profissional|complicadores profissionais]] existe.\n\nAntes do [[Zettelkasten]], vale a pena saber o que é um [[commonplace book]] e como ele é uma forma mais simples de tomar notas. Com ele, comece a construir um índice de assuntos para suas ideias.\n\nCom as ideias que for acumulando num caderno, experimente mudá-las para blocos de notas, arquivos de texto, _bullet points_ dentro de _outliners_, ou **para onde quer que faça mais sentido e seja mais fácil pra você** ler e revisar o conteúdo do seu jeito. **Mover e rearranjar faz você ver novas ideias**.\n\nSe você for criar um livro, artigo ou trabalho acadêmico com suas anotações, talvez seja bom manter algumas notas com as referências e a bibliografia que for usar, conectando-as com o seu conteúdo. E se você não for um autor ou um acadêmico e artigos, livros e trabalhos científicos não forem pra você, não precisa fazer nada disso.\n\nConforme você revisa suas notas e ideias, _talvez_ você sinta vontade de refiná-las um pouco mais. Melhorar como foram escritas, reescrevê-las com suas próprias palavras. Assim, quando resolver reutilizar suas notas, você vai citar o seu próprio material, e não _plagiar_ ninguém. Se você quiser, estas novas notas podem se chamadas de “**_notas permanentes_**”, ou de “**_evergreen notes_**”, como algumas pessoas têm feito depois que o [[Zettelkasten]] se tornou popular.\n\nSempre que você precisar de mais criatividade e de mais encontros com o acaso com seu próprio sistema, pode criar links entre as suas notas individuais. Algumas coisas vão se encaixar melhor do que outras, então seja seletivo e somente conecte ideias que estejam mais intimamente ligadas.\n\nQuando for criar algo novo sobre um assunto em particular, pergunte alguma coisa para o seu zettelkasten e tente responder consultando seu índice e suas notas. Encontre notas relacionadas ao tópico, coloque-as em uma ordem útil e crie um _ouline_.\n\nSe você fizer mais do que isso, tudo o que estará fazendo será criar **complexidade adicional** e [[fricção]]. A maioria das pessoas pode não querer e nem precisar de mais complexidade em suas vidas. Se você for como eu e não precisa disso, então manter um [[commonplace book]] ou optar pelo [[Wikilogging]], como eu fiz, pode ser melhor, pois ainda assim você será capaz de reencontrar suas ideias (e a de outros) ao longo da sua vida e aproveitá-las ao máximo.\n\nO que quer que você decida, certifique-se de que o seu sistema de anotações esteja trabalhando para você, e não que você esteja trabalhando para o seu sistema de anotações.",
+    "lastmodified": "2023-01-20T21:42:35-03:00",
+    "tags": null
+  },
+  "/usos-da-curiosidade": {
+    "title": "usos da curiosidade",
+    "content": "\nA [[curiosidade]] pode ser usada de diversas formas na vida das [[pessoas curiosas]]. Por exemplo, ela pode nos manter sempre **atualizados**, o que também nos mantém **relevantes**.\n\n\u003e [!QUOTE] Ditado popular\n\u003e \"O dia em que você parar de aprender vai ser o dia em que você morrerá\"\n\nA vida sem novas fontes de aprendizado seria como assistir ao mesmo filme sendo reprisado de novo e de novo.\n\nComo adultos e [[pessoas curiosas]], é possível aprender com as crianças, que como estão descobrindo o mundo aos poucos, não param de perguntar por quê. Considero que a proposta do [[lifelong learning]], aliás, passa por essa incessante **indagação do porquê das coisas**.\n\n### A curiosidade ajuda na hora de decidir\n\nA curiosidade ajuda com a tomada de decisões. \n\nQuanto mais conhecimento agregamos com nossos esforços para saciar a curiosidade, mais informações temos disponíveis para consultar na hora de pensar criticamente sobre um problema ou tomar uma decisão importante.\n\n### Postura de curioso durante as discussões\n\nA curiosidade pode ser útil para atravessar **discussões** ou **confrontos**. É comum que as pessoas evitem discutir sobre tópicos nos quais elas possam discordar – como religião ou política. \n\nQuando se assume uma postura de curiosidade durante uma discussão acirrada, sente-se o empoderamento que vem da habilidade de fazer com que a outra pessoa se sinta ouvida.\n\nA postura de agir com curiosidade durante uma discussão faz com que nos informemos a respeito da *contra-perspectiva*, a respeito do outro lado da moeda. Assim, se experimenta um senso de empatia maior pela outra pessoa e por seu ponto de vista, e reduz significativamente qualquer hostilidade entre as partes.  Por este mesmo motivo, a postura de curiosidade é ótima companheira curante uma discussão com seu cônjuge.",
+    "lastmodified": "2023-01-20T21:42:44-03:00",
+    "tags": null
+  },
+  "/wiki": {
+    "title": "wiki",
+    "content": "\nA palavra *wiki* significa **rápido** em havaiano, e tem suas duas sílabas pronunciadas de forma a destacá-lasa, `“we-key”`, diferente do que estamos acostumados, `“wickee”`.\n\n**Wiki** é um tipo de site criado para favorecer o compartilhamento de conhecimento *online*, quer por pessoas técnicas, mas principalmente por aquelas que **não são técnicas**.\n\nEm um wiki, qualquer usuário é capaz de adicionar, editar ou remover conteúdo. Isso torna um wiki perfeito para dois propósitos:\n\n- **Encontrar** informações, para *aprender* alguma coisa;\n- **Contribuir** com informações, para *ensinar* alguma coisa.\n\nA estrutura de um wiki geralmente é composta por diferentes páginas, dedicadas a diferentes temas ou áreas de conhecimento.\n\nO tipo de software dedicado à criação e ao gerenciamento de wikis é chamado de *wiki engine*.\n\n\u003e **What I know is...**\n\u003e Devido à grande aplicação das *wiki engines* e dos wikis tanto para aprendizado quanto para compartilhamento de conhecimento e de informações, é possível encontrar referências a **WIKI** como uma sigla, representando as palavras *What I know is* (O que eu sei é...).\n\n### Origem do nome\n\n![](notes/wiki-wiki-bus.png)\n\nQuando [Ward Cunningham](https://pt.wikipedia.org/wiki/Ward_Cunningham) — criador da primeira *wiki engine* a existir — foi batizar seu invento, pensou na primeira viagem que fez ao Havaí, onde, chegando no aeroporto, foi informado por um funcionário que, para circular entre os terminais, ele precisaria pegar o *wiki wiki bus*. \n\nEle acabou descobrindo que *wiki* significa **rápido** em havaiano e que, quando usado mais de uma vez, como em *wiki wiki*, o termo é enfatizado para significar **muito rápido**.",
+    "lastmodified": "2023-01-20T21:52:32-03:00",
+    "tags": null
+  },
+  "/wikiblog": {
+    "title": "wikiblog",
+    "content": "\nAprendi sobre o conceito de **wikiblogging** com o [[Taylor Hadden]], sendo a ideia muito simples. Um **wikiblog** é um conjunto das anotações interconectadas feitas por uma pessoa, que ela decida **tornar públicas**.\n\nCriar um wikiblog é algo que me interessa fazer conforme o meu conjunto de anotações aumenta. Faz parte do [[Porque quero tomar notas]] compartilhar meu **aprendizado** e meu **conhecimento** com quem eu puder alcançar — e já que [[blogs não são pra mim]], uma técnica de publicação baseada no [[Wikilogging]] é perfeita.",
+    "lastmodified": "2023-01-20T21:43:01-03:00",
+    "tags": null
+  }
+}
