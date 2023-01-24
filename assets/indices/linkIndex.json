@@ -4,2542 +4,2996 @@
       "/": [
         {
           "source": "/",
-          "target": "/setup/setup",
-          "text": "Setup your own Amethyst instance"
+          "target": "/jardim-digital",
+          "text": "jardim digital"
         },
         {
           "source": "/",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
+          "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "text": "diferença entre blog e jardim digital"
         },
         {
           "source": "/",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
         },
         {
           "source": "/",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
+          "target": "/PKM",
+          "text": "personal knowledge management"
         },
         {
           "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
           "source": "/",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
         },
         {
           "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
-        },
-        {
-          "source": "/",
-          "target": "/tags/setup",
-          "text": "setup-related notes"
-        },
-        {
-          "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
+          "target": "/wikiblog",
+          "text": "wikiblog"
         }
       ],
-      "/cs61b/": [
+      "/Anchoring-bias": [
         {
-          "source": "/cs61b/",
-          "target": "/oop/access-control",
-          "text": "Access Control"
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
         },
         {
-          "source": "/cs61b/",
-          "target": "/oop/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/oop/generics",
-          "text": "Generic Types"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/asymptotics/asymptotics-practice",
-          "text": "Asymptotics Practice"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/linked-lists",
-          "text": "Linked Lists"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/sets",
-          "text": "Sets"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/sorting/sorting-basics",
-          "text": "Sorting"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/searching/",
-          "text": "Searching"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/searching/binary-search",
-          "text": "Binary Search"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/shortest-paths/",
-          "text": "Shortest Paths"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/misc-topics/exceptions",
-          "text": "Exceptions"
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
         }
       ],
-      "/cs61b/SUMMARY": [
+      "/Daniel-Kahneman": [
         {
-          "source": "/cs61b/SUMMARY",
-          "target": "/CS61B-Index",
-          "text": "Welcome"
+          "source": "/Daniel-Kahneman",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
         },
         {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/inheritance",
-          "text": "Inheritance"
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
         },
         {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/access-control",
-          "text": "Access Control"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/objects",
-          "text": "Java Objects"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/generics",
-          "text": "Generic Types"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/amortization",
-          "text": "Amortization"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/asymptotics-practice",
-          "text": "Asymptotics Practice"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/README",
-          "text": "Collections"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/arrays",
-          "text": "Arrays"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/linked-lists",
-          "text": "Linked Lists"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/sets",
-          "text": "Sets"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/README",
-          "text": "Binary Trees"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/heaps",
-          "text": "Heaps"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/balanced-search-structures",
-          "text": "Balanced BSTs"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/tries",
-          "text": "Tries"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/graphs",
-          "text": "Graphs"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/hashing",
-          "text": "Hashing and Hash Tables"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/comparables-and-comparators",
-          "text": "Comparables and Comparators"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/sorting/sorting-basics",
-          "text": "Sorting"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimax",
-          "text": "Minimax Algorithm"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/README",
-          "text": "Searching"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/binary-search",
-          "text": "Binary Search"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/breadth-first-search-bfs",
-          "text": "Breadth First Search (BFS)"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/README",
-          "text": "Shortest Paths"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/a-search",
-          "text": "A* Search"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/README",
-          "text": "Minimum Spanning Trees"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/prims-algorithm",
-          "text": "Prim's Algorithm"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/modular-arithmetic",
-          "text": "Modular Arithmetic and Bit Manipulation"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/exceptions",
-          "text": "Exceptions"
-        },
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/more-resources",
-          "text": "More Resources"
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
         }
       ],
-      "/cs61b/abstract-data-types/binary-trees/README": [
+      "/Dont-make-me-think": [
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/binary-search",
-          "text": "binary-search.md"
+          "source": "/Dont-make-me-think",
+          "target": "/notetaking",
+          "text": "notetaking"
         },
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/balanced-search-structures",
-          "text": "Balanced BSTs"
+          "source": "/Dont-make-me-think",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
         },
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../graphs",
-          "text": "Graphs"
+          "source": "/Dont-make-me-think",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
         },
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/tries",
-          "text": "Tries"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../hashing",
-          "text": "Hash Tables"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/depth-first-search-dfs",
-          "text": "depth-first-search-dfs.md"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/breadth-first-search-bfs",
-          "text": "breadth-first-search-bfs.md"
+          "source": "/Dont-make-me-think",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
         }
       ],
-      "/cs61b/abstract-data-types/binary-trees/balanced-search-structures": [
+      "/Nick-Milo": [
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/balanced-search-structures",
-          "target": "/./",
-          "text": "Binary Trees"
+          "source": "/Nick-Milo",
+          "target": "/PKM",
+          "text": "PKM"
         }
       ],
-      "/cs61b/abstract-data-types/binary-trees/tries": [
+      "/Pensamento-Autom%C3%A1tico": [
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/tries",
-          "target": "/../hashing",
-          "text": "Hashing and Hash Tables"
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
         },
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/tries",
-          "target": "/../collections/sets",
-          "text": "Sets"
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
         }
       ],
-      "/cs61b/abstract-data-types/collections/README": [
+      "/Porque-quero-tomar-notas": [
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/arrays",
-          "text": "ArrayLists"
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/linked-lists",
-          "text": "Linked Lists"
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/sets",
-          "text": "Sets"
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/../hashing",
-          "text": "Hashing and Hash Tables"
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/stacks-and-queues",
-          "text": "Stacks and Queues"
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
         }
       ],
-      "/cs61b/abstract-data-types/collections/arrays": [
+      "/Quando-n%C3%A3o-usar-atomic-notes": [
         {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../oop/objects",
-          "text": "Java Objects"
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../asymptotics/amortization",
-          "text": "Amortization"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../oop/generics",
-          "text": "Generic Types"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/./",
-          "text": "Collections"
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Quando-usar-atomic-notes",
+          "text": "Quando usar atomic notes"
         }
       ],
-      "/cs61b/abstract-data-types/collections/linked-lists": [
+      "/Quando-usar-atomic-notes": [
         {
-          "source": "/cs61b/abstract-data-types/collections/linked-lists",
-          "target": "/arrays",
-          "text": "Arrays"
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
+        },
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "text": "Quando não usar atomic notes"
         }
       ],
-      "/cs61b/abstract-data-types/collections/sets": [
+      "/Sistema-1": [
         {
-          "source": "/cs61b/abstract-data-types/collections/sets",
-          "target": "/../../asymptotics/amortization",
-          "text": "resized"
+          "source": "/Sistema-1",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-1",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         }
       ],
-      "/cs61b/abstract-data-types/collections/stacks-and-queues": [
+      "/Sistema-2": [
         {
-          "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-          "target": "/../../algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "finding shortest paths using Dijkstra's Algorithm"
+          "source": "/Sistema-2",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-          "target": "/stacks-and-queues",
-          "text": "Priority Queues"
+          "source": "/Sistema-2",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
         }
       ],
-      "/cs61b/abstract-data-types/graphs": [
+      "/T%C3%A9cnica-HQA": [
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/searching/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
         },
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/searching/breadth-first-search-bfs",
-          "text": "Breadth First Search (BFS)"
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/notetaking",
+          "text": "notetaking"
         },
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/",
-          "text": "Minimum Spanning Trees"
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
         },
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/",
-          "text": "Shortest Paths"
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
         },
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/a-search",
-          "text": "A* Search"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/prims-algorithm",
-          "text": "Prim's Algorithm"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
         }
       ],
-      "/cs61b/abstract-data-types/hashing": [
+      "/T%C3%A9cnica-Jump-Notes": [
         {
-          "source": "/cs61b/abstract-data-types/hashing",
-          "target": "/../asymptotics/amortization",
-          "text": "Amortization"
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/complicador-profissional",
+          "text": "complicador profissional"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
         }
       ],
-      "/cs61b/abstract-data-types/union-find-disjoint-sets": [
+      "/Taylor-Hadden": [
         {
-          "source": "/cs61b/abstract-data-types/union-find-disjoint-sets",
-          "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
-        }
-      ],
-      "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm": [
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/./",
-          "text": "Minimum Spanning Trees"
-        },
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        },
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        },
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "PriorityQueue"
-        }
-      ],
-      "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm": [
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/./README",
-          "text": "Minimum Spanning Trees"
-        },
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "PriorityQueue"
-        },
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/../shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's"
-        }
-      ],
-      "/cs61b/algorithms/searching/README": [
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/binary-search",
-          "text": "binary-search.md"
-        },
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/depth-first-search-dfs",
-          "text": "depth-first-search-dfs.md"
-        },
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/breadth-first-search-bfs",
-          "text": "breadth-first-search-bfs.md"
-        }
-      ],
-      "/cs61b/algorithms/searching/binary-search": [
-        {
-          "source": "/cs61b/algorithms/searching/binary-search",
-          "target": "/../../abstract-data-types/binary-trees/",
-          "text": "binary trees"
-        }
-      ],
-      "/cs61b/algorithms/searching/breadth-first-search-bfs": [
-        {
-          "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-          "target": "/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
-        },
-        {
-          "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-          "target": "/../shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        }
-      ],
-      "/cs61b/algorithms/shortest-paths/a-search": [
-        {
-          "source": "/cs61b/algorithms/shortest-paths/a-search",
-          "target": "/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        }
-      ],
-      "/cs61b/algorithms/shortest-paths/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/../../abstract-data-types/graphs",
-          "text": "Graphs"
-        },
-        {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
-        },
-        {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/./",
-          "text": "Shortest Paths"
-        }
-      ],
-      "/cs61b/asymptotics/amortization": [
-        {
-          "source": "/cs61b/asymptotics/amortization",
-          "target": "/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        }
-      ],
-      "/cs61b/asymptotics/asymptotics": [
-        {
-          "source": "/cs61b/asymptotics/asymptotics",
-          "target": "/asymptotics-practice",
-          "text": "try some problems!"
-        },
-        {
-          "source": "/cs61b/asymptotics/asymptotics",
-          "target": "/asymptotics",
-          "text": "Simplify"
-        }
-      ],
-      "/cs61b/asymptotics/asymptotics-practice": [
-        {
-          "source": "/cs61b/asymptotics/asymptotics-practice",
-          "target": "/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        }
-      ],
-      "/cs61b/misc-topics/modular-arithmetic": [
-        {
-          "source": "/cs61b/misc-topics/modular-arithmetic",
-          "target": "/../oop/objects",
-          "text": "Java Objects"
-        }
-      ],
-      "/cs61b/oop/dynamic-method-selection": [
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/inheritance",
-          "text": "inheritance"
-        },
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/access-control",
-          "text": "access control"
-        },
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/inheritance",
-          "text": "Interfaces"
-        },
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/../abstract-data-types/collections/",
-          "text": "Collections"
-        }
-      ],
-      "/cs61b/oop/generics": [
-        {
-          "source": "/cs61b/oop/generics",
-          "target": "/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        },
-        {
-          "source": "/cs61b/oop/generics",
-          "target": "/inheritance",
-          "text": "inheritance rules"
-        }
-      ],
-      "/cs61b/oop/inheritance": [
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/access-control",
-          "text": "Access Control"
-        },
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/objects",
-          "text": "References, Objects, and Types in Java"
-        },
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/generics",
-          "text": "Generic Types"
-        },
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        }
-      ],
-      "/cs61b/oop/objects": [
-        {
-          "source": "/cs61b/oop/objects",
-          "target": "/../misc-topics/modular-arithmetic",
-          "text": "Modular Arithmetic and Bit Manipulation"
-        },
-        {
-          "source": "/cs61b/oop/objects",
-          "target": "/../abstract-data-types/collections/",
-          "text": "collections"
-        }
-      ],
-      "/features/languages": [
-        {
-          "source": "/features/languages",
-          "target": "/setup/config",
-          "text": "config"
-        }
-      ],
-      "/setup/config": [
-        {
-          "source": "/setup/config",
-          "target": "/features/language",
-          "text": "Chinese, Japanese, and Korean support"
-        },
-        {
-          "source": "/setup/config",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/editing": [
-        {
-          "source": "/setup/editing",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/hosting": [
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/custom-Domain",
-          "text": "Learn how to set it up with Amethyst"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/ignore-notes",
-          "text": "Excluding pages from being published"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/obsidian": [
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/setup",
-          "text": "setup"
-        },
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        }
-      ],
-      "/setup/preview-changes": [
-        {
-          "source": "/setup/preview-changes",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        }
-      ],
-      "/setup/setup": [
-        {
-          "source": "/setup/setup",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
-        }
-      ],
-      "/setup/troubleshooting": [
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/features/latex",
-          "text": "LaTeX"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/ignore-notes",
-          "text": "excluding pages from being published"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/obsidian",
+          "source": "/Taylor-Hadden",
+          "target": "/Obsidian",
           "text": "Obsidian"
         },
         {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "the 'how to edit' guide"
+          "source": "/Taylor-Hadden",
+          "target": "/Tangent",
+          "text": "Tangent"
         },
         {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "the hosting guide"
+          "source": "/Taylor-Hadden",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/config",
-          "text": "customization guide"
+          "source": "/Taylor-Hadden",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ],
+      "/The-Honest-Notes-Method": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/notetaking",
+          "text": "notetaking"
         },
         {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "local editing"
+          "source": "/The-Honest-Notes-Method",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-HQA",
+          "text": "Técnica HQ\u0026A"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-Jump-Notes",
+          "text": "Técnica Jump Notes"
+        }
+      ],
+      "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade": [
+        {
+          "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/Wikilogging": [
+        {
+          "source": "/Wikilogging",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/daily-log",
+          "text": "daily log"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/journaling",
+          "text": "journaling"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        }
+      ],
+      "/Zettelkasten": [
+        {
+          "source": "/Zettelkasten",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/Zettelkasten-n%C3%A3o-%C3%A9-complicado": [
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/tomar-notas-deve-ser-simples",
+          "text": "tomar notas deve ser simples"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-assassina-ideias": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "text": "a fricção quase matou meu processo de notetaking"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/PKM",
+          "text": "PKM"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ],
+      "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim": [
+        {
+          "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+          "target": "/a-vida-%C3%A9-como-um-jardim",
+          "text": "a vida é como um jardim"
+        }
+      ],
+      "/alimento-para-a-mente-macaco": [
+        {
+          "source": "/alimento-para-a-mente-macaco",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/commonplace-book": [
+        {
+          "source": "/commonplace-book",
+          "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "text": "Um commonplace book é um excelente combustível para a criatividade"
+        }
+      ],
+      "/complicador-profissional": [
+        {
+          "source": "/complicador-profissional",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        }
+      ],
+      "/curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/usos-da-curiosidade",
+          "text": "usar a curiosidade"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        },
+        {
+          "source": "/curiosidade",
+          "target": "/tipos-de-curiosidade",
+          "text": "tipos de curiosidade"
+        }
+      ],
+      "/daily-log": [
+        {
+          "source": "/daily-log",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/journaling",
+          "text": "journal"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        }
+      ],
+      "/diferen%C3%A7a-entre-blog-e-jardim-digital": [
+        {
+          "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "target": "/jardim-digital",
+          "text": "jardins digitais"
+        }
+      ],
+      "/dont-make-me-decide": [
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+          "text": "Decisões demais confundem nossa mente"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias": [
+        {
+          "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/fric%C3%A7%C3%A3o": [
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        }
+      ],
+      "/jardim-digital": [
+        {
+          "source": "/jardim-digital",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/journaling": [
+        {
+          "source": "/journaling",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        }
+      ],
+      "/lifelong-learning": [
+        {
+          "source": "/lifelong-learning",
+          "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "text": "somos todos aprendizes ao longo de toda a vida"
+        },
+        {
+          "source": "/lifelong-learning",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/mente-macaco": [
+        {
+          "source": "/mente-macaco",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/journaling",
+          "text": "journaling"
+        }
+      ],
+      "/n%C3%A3o-fofoque-sobre-as-pessoas": [
+        {
+          "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        }
+      ],
+      "/notetaking": [
+        {
+          "source": "/notetaking",
+          "target": "/outlines",
+          "text": "outlines"
+        }
+      ],
+      "/nunca-acredite-somente-nas-not%C3%ADcias": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "text": "expandir a mente e não acompanhar somente as notícias"
+        },
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "text": "procure por aqueles com opiniões bem informadas"
+        }
+      ],
+      "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam": [
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca devemos acreditar somente nas notícias"
+        },
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
+        }
+      ],
+      "/outlines": [
+        {
+          "source": "/outlines",
+          "target": "/notetaking",
+          "text": "notetaking"
+        }
+      ],
+      "/pessoas-curiosas": [
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        }
+      ],
+      "/processos-de-pensamento": [
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas": [
+        {
+          "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/racioc%C3%ADnio": [
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        }
+      ],
+      "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado": [
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        }
+      ],
+      "/somos-todos-aprendizes-ao-longo-de-toda-a-vida": [
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        }
+      ],
+      "/tipos-de-curiosidade": [
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/tomar-notas-deve-ser-simples": [
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "text": "uma ideia mais simples de Zettlekasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        }
+      ],
+      "/uma-ideia-mais-simples-de-Zettlekasten": [
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        }
+      ],
+      "/usos-da-curiosidade": [
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        }
+      ],
+      "/wikiblog": [
+        {
+          "source": "/wikiblog",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         }
       ]
     },
     "backlinks": {
-      "/../../abstract-data-types/binary-trees/": [
+      "/Anchoring-bias": [
         {
-          "source": "/cs61b/algorithms/searching/binary-search",
-          "target": "/../../abstract-data-types/binary-trees/",
-          "text": "binary trees"
-        }
-      ],
-      "/../../abstract-data-types/collections/stacks-and-queues": [
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "PriorityQueue"
+          "source": "/Sistema-2",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
         },
         {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "PriorityQueue"
+          "source": "/journaling",
+          "target": "/Anchoring-bias",
+          "text": "Anchoring bias"
+        }
+      ],
+      "/As-grandes-mentes-discutem-ideias": [
+        {
+          "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
         },
         {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/../../abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/As-grandes-mentes-discutem-ideias",
+          "text": "As grandes mentes discutem ideias"
         }
       ],
-      "/../../abstract-data-types/graphs": [
+      "/Atomic-notes": [
         {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/../../abstract-data-types/graphs",
-          "text": "Graphs"
-        }
-      ],
-      "/../../abstract-data-types/union-find-disjoint-sets": [
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
         },
         {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/../../abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        }
-      ],
-      "/../../algorithms/searching/binary-search": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/binary-search",
-          "text": "binary-search.md"
-        }
-      ],
-      "/../../algorithms/searching/breadth-first-search-bfs": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/breadth-first-search-bfs",
-          "text": "breadth-first-search-bfs.md"
-        }
-      ],
-      "/../../algorithms/searching/depth-first-search-dfs": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../../algorithms/searching/depth-first-search-dfs",
-          "text": "depth-first-search-dfs.md"
-        }
-      ],
-      "/../../algorithms/shortest-paths/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-          "target": "/../../algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "finding shortest paths using Dijkstra's Algorithm"
-        }
-      ],
-      "/../../asymptotics/amortization": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../asymptotics/amortization",
-          "text": "Amortization"
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Atomic-notes",
+          "text": "Atomic notes"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/sets",
-          "target": "/../../asymptotics/amortization",
-          "text": "resized"
-        }
-      ],
-      "/../../oop/generics": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../oop/generics",
-          "text": "Generic Types"
-        }
-      ],
-      "/../../oop/objects": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/../../oop/objects",
-          "text": "Java Objects"
-        }
-      ],
-      "/../abstract-data-types/collections/": [
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/../abstract-data-types/collections/",
-          "text": "Collections"
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
         },
         {
-          "source": "/cs61b/oop/objects",
-          "target": "/../abstract-data-types/collections/",
-          "text": "collections"
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Atomic-notes",
+          "text": "notas atômicas"
         }
       ],
-      "/../algorithms/minimum-spanning-trees/": [
+      "/Daniel-Kahneman": [
         {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/",
-          "text": "Minimum Spanning Trees"
-        }
-      ],
-      "/../algorithms/minimum-spanning-trees/kruskals-algorithm": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
+          "source": "/Sistema-1",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         },
         {
-          "source": "/cs61b/abstract-data-types/union-find-disjoint-sets",
-          "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
-        }
-      ],
-      "/../algorithms/minimum-spanning-trees/prims-algorithm": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/minimum-spanning-trees/prims-algorithm",
-          "text": "Prim's Algorithm"
-        }
-      ],
-      "/../algorithms/searching/breadth-first-search-bfs": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/searching/breadth-first-search-bfs",
-          "text": "Breadth First Search (BFS)"
-        }
-      ],
-      "/../algorithms/searching/depth-first-search-dfs": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/searching/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
-        }
-      ],
-      "/../algorithms/shortest-paths/": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/",
-          "text": "Shortest Paths"
-        }
-      ],
-      "/../algorithms/shortest-paths/a-search": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/a-search",
-          "text": "A* Search"
-        }
-      ],
-      "/../algorithms/shortest-paths/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/abstract-data-types/graphs",
-          "target": "/../algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        }
-      ],
-      "/../asymptotics/amortization": [
-        {
-          "source": "/cs61b/abstract-data-types/hashing",
-          "target": "/../asymptotics/amortization",
-          "text": "Amortization"
-        }
-      ],
-      "/../collections/sets": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/tries",
-          "target": "/../collections/sets",
-          "text": "Sets"
-        }
-      ],
-      "/../graphs": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../graphs",
-          "text": "Graphs"
-        }
-      ],
-      "/../hashing": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/../hashing",
-          "text": "Hash Tables"
+          "source": "/Sistema-2",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         },
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/tries",
-          "target": "/../hashing",
-          "text": "Hashing and Hash Tables"
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/../hashing",
-          "text": "Hashing and Hash Tables"
-        }
-      ],
-      "/../misc-topics/modular-arithmetic": [
-        {
-          "source": "/cs61b/oop/objects",
-          "target": "/../misc-topics/modular-arithmetic",
-          "text": "Modular Arithmetic and Bit Manipulation"
-        }
-      ],
-      "/../oop/objects": [
-        {
-          "source": "/cs61b/misc-topics/modular-arithmetic",
-          "target": "/../oop/objects",
-          "text": "Java Objects"
-        }
-      ],
-      "/../shortest-paths/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/../shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's"
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         },
         {
-          "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-          "target": "/../shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
+          "source": "/processos-de-pensamento",
+          "target": "/Daniel-Kahneman",
+          "text": "Daniel Kahneman"
         }
       ],
-      "/./": [
+      "/Decis%C3%B5es-demais-confundem-nossa-mente": [
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/balanced-search-structures",
-          "target": "/./",
-          "text": "Binary Trees"
+          "source": "/dont-make-me-decide",
+          "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+          "text": "Decisões demais confundem nossa mente"
+        }
+      ],
+      "/Dont-make-me-think": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/arrays",
-          "target": "/./",
-          "text": "Collections"
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
         },
         {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "target": "/./",
-          "text": "Minimum Spanning Trees"
-        },
-        {
-          "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-          "target": "/./",
-          "text": "Shortest Paths"
+          "source": "/dont-make-me-decide",
+          "target": "/Dont-make-me-think",
+          "text": "Don’t make me think"
         }
       ],
-      "/./README": [
+      "/Obsidian": [
         {
-          "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-          "target": "/./README",
-          "text": "Minimum Spanning Trees"
-        }
-      ],
-      "/CS61B-Index": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/CS61B-Index",
-          "text": "Welcome"
-        }
-      ],
-      "/abstract-data-types/binary-trees/README": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/README",
-          "text": "Binary Trees"
-        }
-      ],
-      "/abstract-data-types/binary-trees/balanced-search-structures": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/balanced-search-structures",
-          "text": "Balanced BSTs"
-        }
-      ],
-      "/abstract-data-types/binary-trees/heaps": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/heaps",
-          "text": "Heaps"
-        }
-      ],
-      "/abstract-data-types/binary-trees/tries": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/binary-trees/tries",
-          "text": "Tries"
-        }
-      ],
-      "/abstract-data-types/collections/README": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/README",
-          "text": "Collections"
-        }
-      ],
-      "/abstract-data-types/collections/arrays": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/arrays",
-          "text": "Arrays"
-        }
-      ],
-      "/abstract-data-types/collections/linked-lists": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/linked-lists",
-          "text": "Linked Lists"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/linked-lists",
-          "text": "Linked Lists"
-        }
-      ],
-      "/abstract-data-types/collections/sets": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/sets",
-          "text": "Sets"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/sets",
-          "text": "Sets"
-        }
-      ],
-      "/abstract-data-types/collections/stacks-and-queues": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/collections/stacks-and-queues",
-          "text": "Stacks and Queues"
-        }
-      ],
-      "/abstract-data-types/comparables-and-comparators": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/comparables-and-comparators",
-          "text": "Comparables and Comparators"
-        }
-      ],
-      "/abstract-data-types/graphs": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/graphs",
-          "text": "Graphs"
-        }
-      ],
-      "/abstract-data-types/hashing": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/hashing",
-          "text": "Hashing and Hash Tables"
-        }
-      ],
-      "/abstract-data-types/union-find-disjoint-sets": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/abstract-data-types/union-find-disjoint-sets",
-          "text": "Union Find (Disjoint Sets)"
-        }
-      ],
-      "/access-control": [
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/access-control",
-          "text": "access control"
-        },
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/access-control",
-          "text": "Access Control"
-        }
-      ],
-      "/algorithms/minimax": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimax",
-          "text": "Minimax Algorithm"
-        }
-      ],
-      "/algorithms/minimum-spanning-trees/README": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/README",
-          "text": "Minimum Spanning Trees"
-        }
-      ],
-      "/algorithms/minimum-spanning-trees/kruskals-algorithm": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/kruskals-algorithm",
-          "text": "Kruskal's Algorithm"
-        }
-      ],
-      "/algorithms/minimum-spanning-trees/prims-algorithm": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/minimum-spanning-trees/prims-algorithm",
-          "text": "Prim's Algorithm"
-        }
-      ],
-      "/algorithms/searching/": [
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/searching/",
-          "text": "Searching"
-        }
-      ],
-      "/algorithms/searching/README": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/README",
-          "text": "Searching"
-        }
-      ],
-      "/algorithms/searching/binary-search": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/binary-search",
-          "text": "Binary Search"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/searching/binary-search",
-          "text": "Binary Search"
-        }
-      ],
-      "/algorithms/searching/breadth-first-search-bfs": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/breadth-first-search-bfs",
-          "text": "Breadth First Search (BFS)"
-        }
-      ],
-      "/algorithms/searching/depth-first-search-dfs": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/searching/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
-        }
-      ],
-      "/algorithms/shortest-paths/": [
-        {
-          "source": "/cs61b/",
-          "target": "/algorithms/shortest-paths/",
-          "text": "Shortest Paths"
-        }
-      ],
-      "/algorithms/shortest-paths/README": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/README",
-          "text": "Shortest Paths"
-        }
-      ],
-      "/algorithms/shortest-paths/a-search": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/a-search",
-          "text": "A* Search"
-        }
-      ],
-      "/algorithms/shortest-paths/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/algorithms/shortest-paths/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        }
-      ],
-      "/arrays": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/arrays",
-          "text": "ArrayLists"
-        },
-        {
-          "source": "/cs61b/abstract-data-types/collections/linked-lists",
-          "target": "/arrays",
-          "text": "Arrays"
-        }
-      ],
-      "/asymptotics": [
-        {
-          "source": "/cs61b/asymptotics/amortization",
-          "target": "/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        },
-        {
-          "source": "/cs61b/asymptotics/asymptotics-practice",
-          "target": "/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        },
-        {
-          "source": "/cs61b/asymptotics/asymptotics",
-          "target": "/asymptotics",
-          "text": "Simplify"
-        }
-      ],
-      "/asymptotics-practice": [
-        {
-          "source": "/cs61b/asymptotics/asymptotics",
-          "target": "/asymptotics-practice",
-          "text": "try some problems!"
-        }
-      ],
-      "/asymptotics/amortization": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/amortization",
-          "text": "Amortization"
-        }
-      ],
-      "/asymptotics/asymptotics": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/asymptotics",
-          "text": "Asymptotic Analysis Basics"
-        }
-      ],
-      "/asymptotics/asymptotics-practice": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/asymptotics/asymptotics-practice",
-          "text": "Asymptotics Practice"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/asymptotics/asymptotics-practice",
-          "text": "Asymptotics Practice"
-        }
-      ],
-      "/balanced-search-structures": [
-        {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/balanced-search-structures",
-          "text": "Balanced BSTs"
-        }
-      ],
-      "/binary-search": [
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/binary-search",
-          "text": "binary-search.md"
-        }
-      ],
-      "/breadth-first-search-bfs": [
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/breadth-first-search-bfs",
-          "text": "breadth-first-search-bfs.md"
-        }
-      ],
-      "/depth-first-search-dfs": [
-        {
-          "source": "/cs61b/algorithms/searching/README",
-          "target": "/depth-first-search-dfs",
-          "text": "depth-first-search-dfs.md"
-        },
-        {
-          "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-          "target": "/depth-first-search-dfs",
-          "text": "Depth First Search (DFS)"
-        }
-      ],
-      "/dijkstras-algorithm": [
-        {
-          "source": "/cs61b/algorithms/shortest-paths/a-search",
-          "target": "/dijkstras-algorithm",
-          "text": "Dijkstra's Algorithm"
-        }
-      ],
-      "/dynamic-method-selection": [
-        {
-          "source": "/cs61b/oop/generics",
-          "target": "/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        },
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        }
-      ],
-      "/features/language": [
-        {
-          "source": "/setup/config",
-          "target": "/features/language",
-          "text": "Chinese, Japanese, and Korean support"
-        }
-      ],
-      "/features/latex": [
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/features/latex",
-          "text": "LaTeX"
-        }
-      ],
-      "/generics": [
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/generics",
-          "text": "Generic Types"
-        }
-      ],
-      "/inheritance": [
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/inheritance",
-          "text": "inheritance"
-        },
-        {
-          "source": "/cs61b/oop/dynamic-method-selection",
-          "target": "/inheritance",
-          "text": "Interfaces"
-        },
-        {
-          "source": "/cs61b/oop/generics",
-          "target": "/inheritance",
-          "text": "inheritance rules"
-        }
-      ],
-      "/linked-lists": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/linked-lists",
-          "text": "Linked Lists"
-        }
-      ],
-      "/misc-topics/exceptions": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/exceptions",
-          "text": "Exceptions"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/misc-topics/exceptions",
-          "text": "Exceptions"
-        }
-      ],
-      "/misc-topics/modular-arithmetic": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/modular-arithmetic",
-          "text": "Modular Arithmetic and Bit Manipulation"
-        }
-      ],
-      "/misc-topics/more-resources": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/misc-topics/more-resources",
-          "text": "More Resources"
-        }
-      ],
-      "/objects": [
-        {
-          "source": "/cs61b/oop/inheritance",
-          "target": "/objects",
-          "text": "References, Objects, and Types in Java"
-        }
-      ],
-      "/oop/access-control": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/access-control",
-          "text": "Access Control"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/oop/access-control",
-          "text": "Access Control"
-        }
-      ],
-      "/oop/dynamic-method-selection": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/oop/dynamic-method-selection",
-          "text": "Dynamic Method Selection"
-        }
-      ],
-      "/oop/generics": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/generics",
-          "text": "Generic Types"
-        },
-        {
-          "source": "/cs61b/",
-          "target": "/oop/generics",
-          "text": "Generic Types"
-        }
-      ],
-      "/oop/inheritance": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/inheritance",
-          "text": "Inheritance"
-        }
-      ],
-      "/oop/objects": [
-        {
-          "source": "/cs61b/SUMMARY",
-          "target": "/oop/objects",
-          "text": "Java Objects"
-        }
-      ],
-      "/sets": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/sets",
-          "text": "Sets"
-        }
-      ],
-      "/setup/config": [
-        {
-          "source": "/",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/features/languages",
-          "target": "/setup/config",
-          "text": "config"
-        },
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/config",
-          "text": "Customizing Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/config",
-          "text": "customization guide"
-        }
-      ],
-      "/setup/custom-Domain": [
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/custom-Domain",
-          "text": "Learn how to set it up with Amethyst"
-        }
-      ],
-      "/setup/editing": [
-        {
-          "source": "/",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/setup",
-          "target": "/setup/editing",
-          "text": "Editing Notes in Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "the 'how to edit' guide"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/editing",
-          "text": "local editing"
-        }
-      ],
-      "/setup/hosting": [
-        {
-          "source": "/",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/preview-changes",
-          "target": "/setup/hosting",
-          "text": "Hosting Amethyst online!"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "hosting"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/hosting",
-          "text": "the hosting guide"
-        }
-      ],
-      "/setup/ignore-notes": [
-        {
-          "source": "/setup/hosting",
-          "target": "/setup/ignore-notes",
-          "text": "Excluding pages from being published"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/ignore-notes",
-          "text": "excluding pages from being published"
-        }
-      ],
-      "/setup/obsidian": [
-        {
-          "source": "/",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/editing",
-          "target": "/setup/obsidian",
-          "text": "How to setup your Obsidian Vault to work with Amethyst"
-        },
-        {
-          "source": "/setup/troubleshooting",
-          "target": "/setup/obsidian",
+          "source": "/Taylor-Hadden",
+          "target": "/Obsidian",
           "text": "Obsidian"
         }
       ],
-      "/setup/preview-changes": [
+      "/PKM": [
+        {
+          "source": "/Nick-Milo",
+          "target": "/PKM",
+          "text": "PKM"
+        },
         {
           "source": "/",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
+          "target": "/PKM",
+          "text": "personal knowledge management"
         },
         {
-          "source": "/setup/editing",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
-        },
-        {
-          "source": "/setup/obsidian",
-          "target": "/setup/preview-changes",
-          "text": "Preview Changes"
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/PKM",
+          "text": "PKM"
         }
       ],
-      "/setup/setup": [
+      "/Pensamento-Autom%C3%A1tico": [
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Pensamento-Autom%C3%A1tico",
+          "text": "Pensamento Automático"
+        }
+      ],
+      "/Porque-quero-tomar-notas": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Porque-quero-tomar-notas",
+          "text": "Porque quero tomar notas"
+        }
+      ],
+      "/Quando-n%C3%A3o-usar-atomic-notes": [
+        {
+          "source": "/Quando-usar-atomic-notes",
+          "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "text": "Quando não usar atomic notes"
+        }
+      ],
+      "/Quando-usar-atomic-notes": [
+        {
+          "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+          "target": "/Quando-usar-atomic-notes",
+          "text": "Quando usar atomic notes"
+        }
+      ],
+      "/Sistema-1": [
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-1",
+          "text": "Sistema 1"
+        }
+      ],
+      "/Sistema-2": [
+        {
+          "source": "/Anchoring-bias",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/journaling",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/Sistema-2",
+          "text": "Sistema 2"
+        }
+      ],
+      "/T%C3%A9cnica-HQA": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-HQA",
+          "text": "Técnica HQ\u0026A"
+        }
+      ],
+      "/T%C3%A9cnica-Jump-Notes": [
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/T%C3%A9cnica-Jump-Notes",
+          "text": "Técnica Jump Notes"
+        }
+      ],
+      "/Tangent": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Tangent",
+          "text": "Tangent"
+        }
+      ],
+      "/Taylor-Hadden": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
         {
           "source": "/",
-          "target": "/setup/setup",
-          "text": "Setup your own Amethyst instance"
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
         },
         {
-          "source": "/setup/obsidian",
-          "target": "/setup/setup",
-          "text": "setup"
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Taylor-Hadden",
+          "text": "Taylor Hadden"
         }
       ],
-      "/setup/troubleshooting": [
+      "/The-Honest-Notes-Method": [
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/The-Honest-Notes-Method",
+          "text": "The Honest Notes Method"
+        }
+      ],
+      "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade": [
+        {
+          "source": "/commonplace-book",
+          "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "text": "Um commonplace book é um excelente combustível para a criatividade"
+        }
+      ],
+      "/Wikilogging": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
         {
           "source": "/",
-          "target": "/setup/troubleshooting",
-          "text": "Troubleshooting and FAQ"
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
-          "source": "/setup/config",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
-          "source": "/setup/editing",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
+          "source": "/daily-log",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
-          "source": "/setup/hosting",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         },
         {
-          "source": "/setup/setup",
-          "target": "/setup/troubleshooting",
-          "text": "FAQ and Troubleshooting guide"
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/Wikilogging",
+          "text": "Wikilogging"
         }
       ],
-      "/setup/updating": [
+      "/Zettelkasten": [
+        {
+          "source": "/Wikilogging",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/Zettelkasten",
+          "text": "Zettelkasten"
+        }
+      ],
+      "/Zettelkasten-n%C3%A3o-%C3%A9-complicado": [
+        {
+          "source": "/Zettelkasten",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "text": "Zettelkasten não é complicado"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-assassina-ideias": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "text": "a fricção assassina ideias"
+        }
+      ],
+      "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking": [
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "text": "a fricção quase matou meu processo de notetaking"
+        }
+      ],
+      "/a-vida-%C3%A9-como-um-jardim": [
+        {
+          "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+          "target": "/a-vida-%C3%A9-como-um-jardim",
+          "text": "a vida é como um jardim"
+        }
+      ],
+      "/alimento-para-a-mente-macaco": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/alimento-para-a-mente-macaco",
+          "text": "alimento para a mente macaco"
+        }
+      ],
+      "/blogs-n%C3%A3o-s%C3%A3o-pra-mim": [
+        {
+          "source": "/Wikilogging",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        },
+        {
+          "source": "/wikiblog",
+          "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+          "text": "blogs não são pra mim"
+        }
+      ],
+      "/commonplace-book": [
+        {
+          "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/commonplace-book",
+          "text": "commonplace book"
+        }
+      ],
+      "/complicador-profissional": [
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/complicador-profissional",
+          "text": "complicador profissional"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/complicador-profissional",
+          "text": "complicadores profissionais"
+        }
+      ],
+      "/curiosidade": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/lifelong-learning",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/curiosidade",
+          "text": "curiosidade"
+        }
+      ],
+      "/daily-log": [
+        {
+          "source": "/Wikilogging",
+          "target": "/daily-log",
+          "text": "daily log"
+        }
+      ],
+      "/diferen%C3%A7a-entre-blog-e-jardim-digital": [
         {
           "source": "/",
-          "target": "/setup/updating",
-          "text": "update"
+          "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "text": "diferença entre blog e jardim digital"
         }
       ],
-      "/sorting/sorting-basics": [
+      "/dont-make-me-decide": [
         {
-          "source": "/cs61b/SUMMARY",
-          "target": "/sorting/sorting-basics",
-          "text": "Sorting"
+          "source": "/Dont-make-me-think",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
         },
         {
-          "source": "/cs61b/",
-          "target": "/sorting/sorting-basics",
-          "text": "Sorting"
-        }
-      ],
-      "/stacks-and-queues": [
-        {
-          "source": "/cs61b/abstract-data-types/collections/README",
-          "target": "/stacks-and-queues",
-          "text": "Stacks and Queues"
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
         },
         {
-          "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-          "target": "/stacks-and-queues",
-          "text": "Priority Queues"
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/dont-make-me-decide",
+          "text": "don't make me decide"
         }
       ],
-      "/tags/setup": [
+      "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "text": "expandir a mente e não acompanhar somente as notícias"
+        }
+      ],
+      "/fric%C3%A7%C3%A3o": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/alimento-para-a-mente-macaco",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/complicador-profissional",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        },
+        {
+          "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "target": "/fric%C3%A7%C3%A3o",
+          "text": "fricção"
+        }
+      ],
+      "/jardim-digital": [
         {
           "source": "/",
-          "target": "/tags/setup",
-          "text": "setup-related notes"
+          "target": "/jardim-digital",
+          "text": "jardim digital"
+        },
+        {
+          "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+          "target": "/jardim-digital",
+          "text": "jardins digitais"
         }
       ],
-      "/tries": [
+      "/journaling": [
         {
-          "source": "/cs61b/abstract-data-types/binary-trees/README",
-          "target": "/tries",
-          "text": "Tries"
+          "source": "/Wikilogging",
+          "target": "/journaling",
+          "text": "journaling"
+        },
+        {
+          "source": "/daily-log",
+          "target": "/journaling",
+          "text": "journal"
+        },
+        {
+          "source": "/mente-macaco",
+          "target": "/journaling",
+          "text": "journaling"
+        }
+      ],
+      "/lifelong-learning": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "target": "/lifelong-learning",
+          "text": "aprendizado ao longo da vida"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/lifelong-learning",
+          "text": "lifelong learning"
+        }
+      ],
+      "/melhoria-de-processos": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/melhoria-de-processos",
+          "text": "melhoria de processos"
+        }
+      ],
+      "/mente-macaco": [
+        {
+          "source": "/Porque-quero-tomar-notas",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/journaling",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/mente-macaco",
+          "text": "mente macaco"
+        }
+      ],
+      "/notetaking": [
+        {
+          "source": "/Dont-make-me-think",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/Zettelkasten",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/dont-make-me-decide",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/fric%C3%A7%C3%A3o",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/outlines",
+          "target": "/notetaking",
+          "text": "notetaking"
+        },
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/notetaking",
+          "text": "notetaking"
+        }
+      ],
+      "/nunca-acredite-somente-nas-not%C3%ADcias": [
+        {
+          "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        },
+        {
+          "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca devemos acreditar somente nas notícias"
+        },
+        {
+          "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "text": "nunca acredite somente nas notícias"
+        }
+      ],
+      "/outlines": [
+        {
+          "source": "/notetaking",
+          "target": "/outlines",
+          "text": "outlines"
+        }
+      ],
+      "/pessoas-curiosas": [
+        {
+          "source": "/curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/tipos-de-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        },
+        {
+          "source": "/usos-da-curiosidade",
+          "target": "/pessoas-curiosas",
+          "text": "pessoas curiosas"
+        }
+      ],
+      "/processos-de-pensamento": [
+        {
+          "source": "/Daniel-Kahneman",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-1",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/Sistema-2",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/The-Honest-Notes-Method",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/T%C3%A9cnica-Jump-Notes",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        },
+        {
+          "source": "/racioc%C3%ADnio",
+          "target": "/processos-de-pensamento",
+          "text": "processos de pensamento"
+        }
+      ],
+      "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas": [
+        {
+          "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+          "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+          "text": "procure por aqueles com opiniões bem informadas"
+        }
+      ],
+      "/racioc%C3%ADnio": [
+        {
+          "source": "/Pensamento-Autom%C3%A1tico",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/T%C3%A9cnica-HQA",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        },
+        {
+          "source": "/processos-de-pensamento",
+          "target": "/racioc%C3%ADnio",
+          "text": "raciocínio"
+        }
+      ],
+      "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado": [
+        {
+          "source": "/curiosidade",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        },
+        {
+          "source": "/pessoas-curiosas",
+          "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+          "text": "ser curioso é um ingrediente chave do aprendizado"
+        }
+      ],
+      "/somos-todos-aprendizes-ao-longo-de-toda-a-vida": [
+        {
+          "source": "/lifelong-learning",
+          "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+          "text": "somos todos aprendizes ao longo de toda a vida"
+        }
+      ],
+      "/tipos-de-curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/tipos-de-curiosidade",
+          "text": "tipos de curiosidade"
+        }
+      ],
+      "/tomar-notas-deve-ser-simples": [
+        {
+          "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+          "target": "/tomar-notas-deve-ser-simples",
+          "text": "tomar notas deve ser simples"
+        }
+      ],
+      "/uma-ideia-mais-simples-de-Zettlekasten": [
+        {
+          "source": "/tomar-notas-deve-ser-simples",
+          "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+          "text": "uma ideia mais simples de Zettlekasten"
+        }
+      ],
+      "/usos-da-curiosidade": [
+        {
+          "source": "/curiosidade",
+          "target": "/usos-da-curiosidade",
+          "text": "usar a curiosidade"
+        }
+      ],
+      "/wiki": [
+        {
+          "source": "/Wikilogging",
+          "target": "/wiki",
+          "text": "wiki"
+        },
+        {
+          "source": "/jardim-digital",
+          "target": "/wiki",
+          "text": "wiki"
+        }
+      ],
+      "/wikiblog": [
+        {
+          "source": "/Taylor-Hadden",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        },
+        {
+          "source": "/Wikilogging",
+          "target": "/wikiblog",
+          "text": "wikiblog"
+        },
+        {
+          "source": "/",
+          "target": "/wikiblog",
+          "text": "wikiblog"
         }
       ]
     }
   },
   "links": [
     {
-      "source": "/",
-      "target": "/setup/setup",
-      "text": "Setup your own Amethyst instance"
+      "source": "/Anchoring-bias",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
     },
     {
-      "source": "/",
-      "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
+      "source": "/Anchoring-bias",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
     },
     {
-      "source": "/",
-      "target": "/setup/obsidian",
-      "text": "How to setup your Obsidian Vault to work with Amethyst"
+      "source": "/Daniel-Kahneman",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
     },
     {
-      "source": "/",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
+      "source": "/Daniel-Kahneman",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
     },
     {
-      "source": "/",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
+      "source": "/Daniel-Kahneman",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
     },
     {
-      "source": "/",
-      "target": "/setup/config",
-      "text": "Customizing Amethyst"
+      "source": "/Dont-make-me-think",
+      "target": "/notetaking",
+      "text": "notetaking"
     },
     {
-      "source": "/",
-      "target": "/setup/updating",
-      "text": "update"
+      "source": "/Dont-make-me-think",
+      "target": "/melhoria-de-processos",
+      "text": "melhoria de processos"
     },
     {
-      "source": "/",
-      "target": "/tags/setup",
-      "text": "setup-related notes"
+      "source": "/Dont-make-me-think",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
     },
     {
-      "source": "/",
-      "target": "/setup/troubleshooting",
-      "text": "Troubleshooting and FAQ"
+      "source": "/Dont-make-me-think",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/CS61B-Index",
-      "text": "Welcome"
+      "source": "/Nick-Milo",
+      "target": "/PKM",
+      "text": "PKM"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/oop/inheritance",
-      "text": "Inheritance"
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/oop/access-control",
-      "text": "Access Control"
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/oop/dynamic-method-selection",
-      "text": "Dynamic Method Selection"
+      "source": "/Pensamento-Autom%C3%A1tico",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/oop/objects",
-      "text": "Java Objects"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/oop/generics",
-      "text": "Generic Types"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/curiosidade",
+      "text": "curiosidade"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/asymptotics/asymptotics",
-      "text": "Asymptotic Analysis Basics"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/asymptotics/amortization",
-      "text": "Amortization"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/asymptotics/asymptotics-practice",
-      "text": "Asymptotics Practice"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/collections/README",
-      "text": "Collections"
+      "source": "/Porque-quero-tomar-notas",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/collections/arrays",
-      "text": "Arrays"
+      "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "target": "/Atomic-notes",
+      "text": "Atomic notes"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/collections/linked-lists",
-      "text": "Linked Lists"
+      "source": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "target": "/Quando-usar-atomic-notes",
+      "text": "Quando usar atomic notes"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/collections/sets",
-      "text": "Sets"
+      "source": "/Quando-usar-atomic-notes",
+      "target": "/Atomic-notes",
+      "text": "Atomic notes"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/collections/stacks-and-queues",
-      "text": "Stacks and Queues"
+      "source": "/Quando-usar-atomic-notes",
+      "target": "/Quando-n%C3%A3o-usar-atomic-notes",
+      "text": "Quando não usar atomic notes"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/binary-trees/README",
-      "text": "Binary Trees"
+      "source": "/Sistema-1",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/binary-trees/heaps",
-      "text": "Heaps"
+      "source": "/Sistema-1",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/binary-trees/balanced-search-structures",
-      "text": "Balanced BSTs"
+      "source": "/Sistema-2",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/binary-trees/tries",
-      "text": "Tries"
+      "source": "/Sistema-2",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/graphs",
-      "text": "Graphs"
+      "source": "/Sistema-2",
+      "target": "/Anchoring-bias",
+      "text": "Anchoring bias"
     },
     {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/hashing",
-      "text": "Hashing and Hash Tables"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/union-find-disjoint-sets",
-      "text": "Union Find (Disjoint Sets)"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/abstract-data-types/comparables-and-comparators",
-      "text": "Comparables and Comparators"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/sorting/sorting-basics",
-      "text": "Sorting"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/minimax",
-      "text": "Minimax Algorithm"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/searching/README",
-      "text": "Searching"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/searching/binary-search",
-      "text": "Binary Search"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/searching/depth-first-search-dfs",
-      "text": "Depth First Search (DFS)"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/searching/breadth-first-search-bfs",
-      "text": "Breadth First Search (BFS)"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/shortest-paths/README",
-      "text": "Shortest Paths"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/shortest-paths/dijkstras-algorithm",
-      "text": "Dijkstra's Algorithm"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/shortest-paths/a-search",
-      "text": "A* Search"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/minimum-spanning-trees/README",
-      "text": "Minimum Spanning Trees"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/minimum-spanning-trees/prims-algorithm",
-      "text": "Prim's Algorithm"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "text": "Kruskal's Algorithm"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/misc-topics/modular-arithmetic",
-      "text": "Modular Arithmetic and Bit Manipulation"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/misc-topics/exceptions",
-      "text": "Exceptions"
-    },
-    {
-      "source": "/cs61b/SUMMARY",
-      "target": "/misc-topics/more-resources",
-      "text": "More Resources"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/oop/access-control",
-      "text": "Access Control"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/oop/dynamic-method-selection",
-      "text": "Dynamic Method Selection"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/oop/generics",
-      "text": "Generic Types"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/asymptotics/asymptotics-practice",
-      "text": "Asymptotics Practice"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/abstract-data-types/union-find-disjoint-sets",
-      "text": "Union Find (Disjoint Sets)"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/abstract-data-types/collections/stacks-and-queues",
-      "text": "Stacks and Queues"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/abstract-data-types/collections/linked-lists",
-      "text": "Linked Lists"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/abstract-data-types/collections/sets",
-      "text": "Sets"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/sorting/sorting-basics",
-      "text": "Sorting"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/algorithms/searching/",
-      "text": "Searching"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/algorithms/searching/binary-search",
-      "text": "Binary Search"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/algorithms/shortest-paths/",
-      "text": "Shortest Paths"
-    },
-    {
-      "source": "/cs61b/",
-      "target": "/misc-topics/exceptions",
-      "text": "Exceptions"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/../../algorithms/searching/binary-search",
-      "text": "binary-search.md"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/balanced-search-structures",
-      "text": "Balanced BSTs"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/../graphs",
-      "text": "Graphs"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/tries",
-      "text": "Tries"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/../hashing",
-      "text": "Hash Tables"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/../../algorithms/searching/depth-first-search-dfs",
-      "text": "depth-first-search-dfs.md"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/README",
-      "target": "/../../algorithms/searching/breadth-first-search-bfs",
-      "text": "breadth-first-search-bfs.md"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/balanced-search-structures",
-      "target": "/./",
-      "text": "Binary Trees"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/tries",
-      "target": "/../hashing",
-      "text": "Hashing and Hash Tables"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/binary-trees/tries",
-      "target": "/../collections/sets",
-      "text": "Sets"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/README",
-      "target": "/arrays",
-      "text": "ArrayLists"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/README",
-      "target": "/linked-lists",
-      "text": "Linked Lists"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/README",
-      "target": "/sets",
-      "text": "Sets"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/README",
-      "target": "/../hashing",
-      "text": "Hashing and Hash Tables"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/README",
-      "target": "/stacks-and-queues",
-      "text": "Stacks and Queues"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/arrays",
-      "target": "/../../oop/objects",
-      "text": "Java Objects"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/arrays",
-      "target": "/../../asymptotics/amortization",
-      "text": "Amortization"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/arrays",
-      "target": "/../../oop/generics",
-      "text": "Generic Types"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/arrays",
-      "target": "/./",
-      "text": "Collections"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/linked-lists",
-      "target": "/arrays",
-      "text": "Arrays"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/sets",
-      "target": "/../../asymptotics/amortization",
-      "text": "resized"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-      "target": "/../../algorithms/shortest-paths/dijkstras-algorithm",
-      "text": "finding shortest paths using Dijkstra's Algorithm"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/collections/stacks-and-queues",
-      "target": "/stacks-and-queues",
-      "text": "Priority Queues"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/searching/depth-first-search-dfs",
-      "text": "Depth First Search (DFS)"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/searching/breadth-first-search-bfs",
-      "text": "Breadth First Search (BFS)"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/minimum-spanning-trees/",
-      "text": "Minimum Spanning Trees"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/shortest-paths/",
-      "text": "Shortest Paths"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/shortest-paths/dijkstras-algorithm",
-      "text": "Dijkstra's Algorithm"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/shortest-paths/a-search",
-      "text": "A* Search"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/minimum-spanning-trees/prims-algorithm",
-      "text": "Prim's Algorithm"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/graphs",
-      "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "text": "Kruskal's Algorithm"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/hashing",
-      "target": "/../asymptotics/amortization",
-      "text": "Amortization"
-    },
-    {
-      "source": "/cs61b/abstract-data-types/union-find-disjoint-sets",
-      "target": "/../algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "text": "Kruskal's Algorithm"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "target": "/./",
-      "text": "Minimum Spanning Trees"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "target": "/../../abstract-data-types/union-find-disjoint-sets",
-      "text": "Union Find (Disjoint Sets)"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "target": "/../../abstract-data-types/union-find-disjoint-sets",
-      "text": "Union Find (Disjoint Sets)"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/kruskals-algorithm",
-      "target": "/../../abstract-data-types/collections/stacks-and-queues",
-      "text": "PriorityQueue"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-      "target": "/./README",
-      "text": "Minimum Spanning Trees"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-      "target": "/../../abstract-data-types/collections/stacks-and-queues",
-      "text": "PriorityQueue"
-    },
-    {
-      "source": "/cs61b/algorithms/minimum-spanning-trees/prims-algorithm",
-      "target": "/../shortest-paths/dijkstras-algorithm",
-      "text": "Dijkstra's"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/README",
-      "target": "/binary-search",
-      "text": "binary-search.md"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/README",
-      "target": "/depth-first-search-dfs",
-      "text": "depth-first-search-dfs.md"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/README",
-      "target": "/breadth-first-search-bfs",
-      "text": "breadth-first-search-bfs.md"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/binary-search",
-      "target": "/../../abstract-data-types/binary-trees/",
-      "text": "binary trees"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-      "target": "/depth-first-search-dfs",
-      "text": "Depth First Search (DFS)"
-    },
-    {
-      "source": "/cs61b/algorithms/searching/breadth-first-search-bfs",
-      "target": "/../shortest-paths/dijkstras-algorithm",
-      "text": "Dijkstra's Algorithm"
-    },
-    {
-      "source": "/cs61b/algorithms/shortest-paths/a-search",
-      "target": "/dijkstras-algorithm",
-      "text": "Dijkstra's Algorithm"
-    },
-    {
-      "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-      "target": "/../../abstract-data-types/graphs",
-      "text": "Graphs"
-    },
-    {
-      "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-      "target": "/../../abstract-data-types/collections/stacks-and-queues",
-      "text": "Stacks and Queues"
-    },
-    {
-      "source": "/cs61b/algorithms/shortest-paths/dijkstras-algorithm",
-      "target": "/./",
-      "text": "Shortest Paths"
-    },
-    {
-      "source": "/cs61b/asymptotics/amortization",
-      "target": "/asymptotics",
-      "text": "Asymptotic Analysis Basics"
-    },
-    {
-      "source": "/cs61b/asymptotics/asymptotics-practice",
-      "target": "/asymptotics",
-      "text": "Asymptotic Analysis Basics"
-    },
-    {
-      "source": "/cs61b/asymptotics/asymptotics",
-      "target": "/asymptotics-practice",
-      "text": "try some problems!"
-    },
-    {
-      "source": "/cs61b/asymptotics/asymptotics",
-      "target": "/asymptotics",
-      "text": "Simplify"
-    },
-    {
-      "source": "/cs61b/misc-topics/modular-arithmetic",
-      "target": "/../oop/objects",
-      "text": "Java Objects"
-    },
-    {
-      "source": "/cs61b/oop/dynamic-method-selection",
-      "target": "/inheritance",
-      "text": "inheritance"
-    },
-    {
-      "source": "/cs61b/oop/dynamic-method-selection",
-      "target": "/access-control",
-      "text": "access control"
-    },
-    {
-      "source": "/cs61b/oop/dynamic-method-selection",
-      "target": "/inheritance",
-      "text": "Interfaces"
-    },
-    {
-      "source": "/cs61b/oop/dynamic-method-selection",
-      "target": "/../abstract-data-types/collections/",
-      "text": "Collections"
-    },
-    {
-      "source": "/cs61b/oop/generics",
-      "target": "/dynamic-method-selection",
-      "text": "Dynamic Method Selection"
-    },
-    {
-      "source": "/cs61b/oop/generics",
-      "target": "/inheritance",
-      "text": "inheritance rules"
-    },
-    {
-      "source": "/cs61b/oop/inheritance",
-      "target": "/access-control",
-      "text": "Access Control"
-    },
-    {
-      "source": "/cs61b/oop/inheritance",
-      "target": "/objects",
-      "text": "References, Objects, and Types in Java"
-    },
-    {
-      "source": "/cs61b/oop/inheritance",
-      "target": "/generics",
-      "text": "Generic Types"
-    },
-    {
-      "source": "/cs61b/oop/inheritance",
-      "target": "/dynamic-method-selection",
-      "text": "Dynamic Method Selection"
-    },
-    {
-      "source": "/cs61b/oop/objects",
-      "target": "/../misc-topics/modular-arithmetic",
-      "text": "Modular Arithmetic and Bit Manipulation"
-    },
-    {
-      "source": "/cs61b/oop/objects",
-      "target": "/../abstract-data-types/collections/",
-      "text": "collections"
-    },
-    {
-      "source": "/features/languages",
-      "target": "/setup/config",
-      "text": "config"
-    },
-    {
-      "source": "/setup/config",
-      "target": "/features/language",
-      "text": "Chinese, Japanese, and Korean support"
-    },
-    {
-      "source": "/setup/config",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/obsidian",
-      "text": "How to setup your Obsidian Vault to work with Amethyst"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/setup/editing",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/custom-Domain",
-      "text": "Learn how to set it up with Amethyst"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/ignore-notes",
-      "text": "Excluding pages from being published"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/config",
-      "text": "Customizing Amethyst"
-    },
-    {
-      "source": "/setup/hosting",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/obsidian",
-      "target": "/setup/setup",
-      "text": "setup"
-    },
-    {
-      "source": "/setup/obsidian",
-      "target": "/setup/preview-changes",
-      "text": "Preview Changes"
-    },
-    {
-      "source": "/setup/preview-changes",
-      "target": "/setup/hosting",
-      "text": "Hosting Amethyst online!"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/editing",
-      "text": "Editing Notes in Amethyst"
-    },
-    {
-      "source": "/setup/setup",
-      "target": "/setup/troubleshooting",
-      "text": "FAQ and Troubleshooting guide"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/features/latex",
-      "text": "LaTeX"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "hosting"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/ignore-notes",
-      "text": "excluding pages from being published"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "hosting"
-    },
-    {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/obsidian",
+      "source": "/Taylor-Hadden",
+      "target": "/Obsidian",
       "text": "Obsidian"
     },
     {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/editing",
-      "text": "the 'how to edit' guide"
+      "source": "/Taylor-Hadden",
+      "target": "/Tangent",
+      "text": "Tangent"
     },
     {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/hosting",
-      "text": "the hosting guide"
+      "source": "/Taylor-Hadden",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
     },
     {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/config",
-      "text": "customization guide"
+      "source": "/Taylor-Hadden",
+      "target": "/wikiblog",
+      "text": "wikiblog"
     },
     {
-      "source": "/setup/troubleshooting",
-      "target": "/setup/editing",
-      "text": "local editing"
+      "source": "/The-Honest-Notes-Method",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/T%C3%A9cnica-HQA",
+      "text": "Técnica HQ\u0026A"
+    },
+    {
+      "source": "/The-Honest-Notes-Method",
+      "target": "/T%C3%A9cnica-Jump-Notes",
+      "text": "Técnica Jump Notes"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/The-Honest-Notes-Method",
+      "text": "The Honest Notes Method"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/T%C3%A9cnica-HQA",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/The-Honest-Notes-Method",
+      "text": "The Honest Notes Method"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/complicador-profissional",
+      "text": "complicador profissional"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/T%C3%A9cnica-Jump-Notes",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/daily-log",
+      "text": "daily log"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/journaling",
+      "text": "journaling"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/wiki",
+      "text": "wiki"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+      "text": "blogs não são pra mim"
+    },
+    {
+      "source": "/Wikilogging",
+      "target": "/wikiblog",
+      "text": "wikiblog"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/Atomic-notes",
+      "text": "notas atômicas"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "target": "/tomar-notas-deve-ser-simples",
+      "text": "tomar notas deve ser simples"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "text": "Zettelkasten não é complicado"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/Zettelkasten",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/",
+      "target": "/jardim-digital",
+      "text": "jardim digital"
+    },
+    {
+      "source": "/",
+      "target": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+      "text": "diferença entre blog e jardim digital"
+    },
+    {
+      "source": "/",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/",
+      "target": "/PKM",
+      "text": "personal knowledge management"
+    },
+    {
+      "source": "/",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/",
+      "target": "/wikiblog",
+      "text": "wikiblog"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "target": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "text": "a fricção quase matou meu processo de notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/PKM",
+      "text": "PKM"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/dont-make-me-decide",
+      "text": "don't make me decide"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "text": "a fricção assassina ideias"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/a-fric%C3%A7%C3%A3o-quase-matou-meu-processo-de-notetaking",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/a-utilidade-do-que-escrevo-%C3%A9-primariamente-para-mim",
+      "target": "/a-vida-%C3%A9-como-um-jardim",
+      "text": "a vida é como um jardim"
+    },
+    {
+      "source": "/alimento-para-a-mente-macaco",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/commonplace-book",
+      "target": "/Um-commonplace-book-%C3%A9-um-excelente-combust%C3%ADvel-para-a-criatividade",
+      "text": "Um commonplace book é um excelente combustível para a criatividade"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/complicador-profissional",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/usos-da-curiosidade",
+      "text": "usar a curiosidade"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "text": "ser curioso é um ingrediente chave do aprendizado"
+    },
+    {
+      "source": "/curiosidade",
+      "target": "/tipos-de-curiosidade",
+      "text": "tipos de curiosidade"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/journaling",
+      "text": "journal"
+    },
+    {
+      "source": "/daily-log",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/diferen%C3%A7a-entre-blog-e-jardim-digital",
+      "target": "/jardim-digital",
+      "text": "jardins digitais"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/Dont-make-me-think",
+      "text": "Don’t make me think"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/Decis%C3%B5es-demais-confundem-nossa-mente",
+      "text": "Decisões demais confundem nossa mente"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/melhoria-de-processos",
+      "text": "melhoria de processos"
+    },
+    {
+      "source": "/dont-make-me-decide",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca acredite somente nas notícias"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/fric%C3%A7%C3%A3o",
+      "target": "/a-fric%C3%A7%C3%A3o-assassina-ideias",
+      "text": "a fricção assassina ideias"
+    },
+    {
+      "source": "/jardim-digital",
+      "target": "/wiki",
+      "text": "wiki"
+    },
+    {
+      "source": "/jardim-digital",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/journaling",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/journaling",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/journaling",
+      "target": "/Anchoring-bias",
+      "text": "Anchoring bias"
+    },
+    {
+      "source": "/lifelong-learning",
+      "target": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "text": "somos todos aprendizes ao longo de toda a vida"
+    },
+    {
+      "source": "/lifelong-learning",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/alimento-para-a-mente-macaco",
+      "text": "alimento para a mente macaco"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/mente-macaco",
+      "target": "/journaling",
+      "text": "journaling"
+    },
+    {
+      "source": "/notetaking",
+      "target": "/outlines",
+      "text": "outlines"
+    },
+    {
+      "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "target": "/expandir-a-mente-e-n%C3%A3o-acompanhar-somente-as-not%C3%ADcias",
+      "text": "expandir a mente e não acompanhar somente as notícias"
+    },
+    {
+      "source": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "target": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+      "text": "procure por aqueles com opiniões bem informadas"
+    },
+    {
+      "source": "/n%C3%A3o-fofoque-sobre-as-pessoas",
+      "target": "/As-grandes-mentes-discutem-ideias",
+      "text": "As grandes mentes discutem ideias"
+    },
+    {
+      "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca devemos acreditar somente nas notícias"
+    },
+    {
+      "source": "/o-mundo-n%C3%A3o-%C3%A9-t%C3%A3o-ruim-quanto-os-canais-de-not%C3%ADcias-o-pintam",
+      "target": "/As-grandes-mentes-discutem-ideias",
+      "text": "As grandes mentes discutem ideias"
+    },
+    {
+      "source": "/outlines",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/pessoas-curiosas",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/pessoas-curiosas",
+      "target": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "text": "ser curioso é um ingrediente chave do aprendizado"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/racioc%C3%ADnio",
+      "text": "raciocínio"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Sistema-1",
+      "text": "Sistema 1"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Daniel-Kahneman",
+      "text": "Daniel Kahneman"
+    },
+    {
+      "source": "/processos-de-pensamento",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/procure-por-aqueles-com-opini%C3%B5es-bem-informadas",
+      "target": "/nunca-acredite-somente-nas-not%C3%ADcias",
+      "text": "nunca acredite somente nas notícias"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/processos-de-pensamento",
+      "text": "processos de pensamento"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/Sistema-2",
+      "text": "Sistema 2"
+    },
+    {
+      "source": "/racioc%C3%ADnio",
+      "target": "/Pensamento-Autom%C3%A1tico",
+      "text": "Pensamento Automático"
+    },
+    {
+      "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/ser-curioso-%C3%A9-um-ingrediente-chave-do-aprendizado",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/lifelong-learning",
+      "text": "aprendizado ao longo da vida"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/somos-todos-aprendizes-ao-longo-de-toda-a-vida",
+      "target": "/lifelong-learning",
+      "text": "aprendizado ao longo da vida"
+    },
+    {
+      "source": "/tipos-de-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/tipos-de-curiosidade",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten-n%C3%A3o-%C3%A9-complicado",
+      "text": "Zettelkasten não é complicado"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/notetaking",
+      "text": "notetaking"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/mente-macaco",
+      "text": "mente macaco"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "text": "uma ideia mais simples de Zettlekasten"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Atomic-notes",
+      "text": "notas atômicas"
+    },
+    {
+      "source": "/tomar-notas-deve-ser-simples",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/complicador-profissional",
+      "text": "complicadores profissionais"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Zettelkasten",
+      "text": "Zettelkasten"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/fric%C3%A7%C3%A3o",
+      "text": "fricção"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/commonplace-book",
+      "text": "commonplace book"
+    },
+    {
+      "source": "/uma-ideia-mais-simples-de-Zettlekasten",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/curiosidade",
+      "text": "curiosidade"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/pessoas-curiosas",
+      "text": "pessoas curiosas"
+    },
+    {
+      "source": "/usos-da-curiosidade",
+      "target": "/lifelong-learning",
+      "text": "lifelong learning"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Taylor-Hadden",
+      "text": "Taylor Hadden"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Porque-quero-tomar-notas",
+      "text": "Porque quero tomar notas"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/blogs-n%C3%A3o-s%C3%A3o-pra-mim",
+      "text": "blogs não são pra mim"
+    },
+    {
+      "source": "/wikiblog",
+      "target": "/Wikilogging",
+      "text": "Wikilogging"
     }
   ]
 }
